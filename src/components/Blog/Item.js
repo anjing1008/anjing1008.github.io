@@ -88,7 +88,6 @@ const Item = props => {
 
           &:first-child {
             &::before {
-              border-top: 1px solid ${theme.line.color};
               content: "";
               height: 0;
               position: absolute;
