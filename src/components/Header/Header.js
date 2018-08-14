@@ -159,10 +159,10 @@ class Header extends React.Component {
 
               :global(a.logoType),
               h1 {
-                color: ${theme.color.neutral.white};
+                color: ${theme.color.neutral.black};
               }
               h2 {
-                color: ${theme.color.neutral.gray.d};
+                color: ${theme.color.neutral.black};
               }
             }
           }
@@ -190,6 +190,7 @@ class Header extends React.Component {
 
                 h1 {
                   margin: ${theme.space.stack.xxs};
+                  display: none;
                 }
 
                 h2 {
@@ -200,10 +201,10 @@ class Header extends React.Component {
               &.homepage:not(.fixed) {
                 :global(a.logoType),
                 h1 {
-                  color: ${theme.color.neutral.white};
+                  color: ${theme.color.neutral.black};
                 }
                 h2 {
-                  color: ${theme.color.neutral.gray.d};
+                  color: ${theme.color.neutral.black};
                 }
               }
             }

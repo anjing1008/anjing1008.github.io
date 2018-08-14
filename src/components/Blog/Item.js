@@ -97,6 +97,7 @@ const Item = props => {
               transition: all ${theme.time.duration.default};
               width: 50%;
             }
+            margin: ${`calc(${theme.space.default} * 3) 0 calc(${theme.space.default} * 3)`};
           }
         }
 
