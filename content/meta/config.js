@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: "TechNote", // <title>
-  shortSiteTitle: "TechNote", // <title> ending for posts and pages
-  siteDescription: "technical notes.",
-  siteUrl: "https://runsisi.com",
+  siteTitle: "Life & Inspiration", // <title>
+  shortSiteTitle: "Life & Inspiration", // <title> ending for posts and pages
+  siteDescription: "Life & Inspiration.",
+  siteUrl: "https://mamiaibaobao.com",
   pathPrefix: "",
   siteImage: "my.png",
   siteLanguage: "en",
   // author
-  authorName: "runsisi",
+  authorName: "anjing",
   authorTwitterAccount: "",
   // info
-  headerTitle: "runsisi's",
-  headerSubTitle: "technical notes",
+  headerTitle: "anjing",
+  headerSubTitle: "Life & Inspiration",
   // manifest.json
-  manifestName: "TechNote",
-  manifestShortName: "TechNote", // max 12 characters
+  manifestName: "Inspiration",
+  manifestShortName: "Inspiration", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/runsisi" },
+    { name: "github", url: "https://github.com/anjing1008" },
   ]
 };
