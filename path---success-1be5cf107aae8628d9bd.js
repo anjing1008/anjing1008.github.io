@@ -1,2 +1,0 @@
-webpackJsonp([0x9b544cfa2a85],{664:function(s,a){s.exports={data:{page:{id:"/home/runsisi/workingcopy/test/aj/runsisi.github.io/content/pages/success/index.md absPath of file >>> MarkdownRemark",html:"<p>Thank you. <br />\nI will answer to your message as soon as possible.</p>",frontmatter:{title:"Success"}},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{slug:"/success/"}}}});
-//# sourceMappingURL=path---success-1be5cf107aae8628d9bd.js.map

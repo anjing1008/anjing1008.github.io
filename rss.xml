@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Life & Inspiration]]></title><description><![CDATA[Life & Inspiration.]]></description><link>https://mamiaibaobao.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 15 Aug 2018 13:17:31 GMT</lastBuildDate><item><title><![CDATA[Gatsby 博客第一篇]]></title><description><![CDATA[迁移ing..]]></description><link>https://mamiaibaobao.com/first-blog-on-gatsby/</link><guid isPermaLink="false">https://mamiaibaobao.com/first-blog-on-gatsby/</guid><content:encoded>&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;go&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Life & Inspiration]]></title><description><![CDATA[Life & Inspiration.]]></description><link>https://mamiaibaobao.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 16 Aug 2018 14:07:04 GMT</lastBuildDate><item><title><![CDATA[Hi yoga]]></title><description><![CDATA[遇见瑜伽 唤醒身体的觉知力]]></description><link>https://mamiaibaobao.com/hi-yoga/</link><guid isPermaLink="false">https://mamiaibaobao.com/hi-yoga/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-49972.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAemk3y6IN//EABkQAAEFAAAAAAAAAAAAAAAAAAACEBExQf/aAAgBAQABBQJNEmN//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAIYGx/9oACAEBAAE/IekBQVp//9oADAMBAAIAAwAAABB73//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQIBAT8QEX//xAAYEAEBAQEBAAAAAAAAAAAAAAABACFxEf/aAAgBAQABPxDj1eGTMpvEPgirku3/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-78f2b.jpg&quot;
+        srcset=&quot;/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-dce19.jpg 200w,
+/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-c1413.jpg 400w,
+/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-78f2b.jpg 800w,
+/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-ab4c4.jpg 1200w,
+/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-bc99b.jpg 1600w,
+/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-34a60.jpg 2400w,
+/static/0816_yoga_class-980443825733413f5cca7e7b7f87cd4d-49972.jpg 3264w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;遇见瑜伽&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;唤醒身体的觉知力&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/th-a0467f68f84ec0bf6649d6ba5b7056ef-9bd19.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 474px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.24472573839661%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABdMuZdgoKf//EABkQAQEBAAMAAAAAAAAAAAAAAAIBAAMQM//aAAgBAQABBQKchJaOqmfnev/EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BbX//xAAWEAEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQEABj8C1rf/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMVFx/9oACAEBAAE/IWbNDqKx28zU4PFN+jbp/9oADAMBAAIAAwAAABAXP//EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAwEBPxAxif/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EBYf/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBUf/aAAgBAQABPxDIQeE1IK+Rz7EHgOqvfYh3aFXpZ6E//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/th-a0467f68f84ec0bf6649d6ba5b7056ef-9bd19.jpg&quot;
+        srcset=&quot;/static/th-a0467f68f84ec0bf6649d6ba5b7056ef-38672.jpg 200w,
+/static/th-a0467f68f84ec0bf6649d6ba5b7056ef-ec87d.jpg 400w,
+/static/th-a0467f68f84ec0bf6649d6ba5b7056ef-9bd19.jpg 474w&quot;
+        sizes=&quot;(max-width: 474px) 100vw, 474px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby 博客第一篇]]></title><description><![CDATA[迁移ing..]]></description><link>https://mamiaibaobao.com/first-blog-on-gatsby/</link><guid isPermaLink="false">https://mamiaibaobao.com/first-blog-on-gatsby/</guid><content:encoded>&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;go&quot;&gt;
       &lt;pre class=&quot;language-go&quot;&gt;&lt;code class=&quot;language-go&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;package&lt;/span&gt; main
 
 &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;fmt&quot;&lt;/span&gt;
