@@ -21,8 +21,8 @@
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js.map"
     ],
     "path---the-way-to-happiness": [
-      "path---the-way-to-happiness-47336c3eddb2dc7e79b4.js",
-      "path---the-way-to-happiness-47336c3eddb2dc7e79b4.js.map"
+      "path---the-way-to-happiness-3af728bbb1ab028ec82e.js",
+      "path---the-way-to-happiness-3af728bbb1ab028ec82e.js.map"
     ],
     "path---first-blog-on-gatsby": [
       "path---first-blog-on-gatsby-5b6eff8d55a853fdcfdc.js",
@@ -41,16 +41,20 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-04eb5573b35d39251bf7.js",
-      "path---category-04eb5573b35d39251bf7.js.map"
+      "path---category-e4800b7d7235ba57f003.js",
+      "path---category-e4800b7d7235ba57f003.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
+    "path---category-thinking": [
+      "path---category-thinking-dd3607aeaf0700f1514d.js",
+      "path---category-thinking-dd3607aeaf0700f1514d.js.map"
+    ],
     "path---index": [
-      "path---index-04eb5573b35d39251bf7.js",
-      "path---index-04eb5573b35d39251bf7.js.map"
+      "path---index-e4800b7d7235ba57f003.js",
+      "path---index-e4800b7d7235ba57f003.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -91,18 +95,22 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---hi-yoga": [
-      "path---hi-yoga-f3e705d46689210ae1a2.js",
-      "path---hi-yoga-f3e705d46689210ae1a2.js.map"
+      "path---hi-yoga-13984011e1556da951e6.js",
+      "path---hi-yoga-13984011e1556da951e6.js.map"
     ],
     "app": [
-      "app-0f89fa144157430652e4.js",
+      "app-9a3882f6166d51f653d5.js",
       "build-js-styles.css",
-      "app-0f89fa144157430652e4.js.map",
+      "app-9a3882f6166d51f653d5.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
       "component---src-templates-page-template-js-277489605b32655c14af.js",
       "component---src-templates-page-template-js-277489605b32655c14af.js.map"
+    ],
+    "path---who-will-cry-at-your-funeral": [
+      "path---who-will-cry-at-your-funeral-b579326c947436f25154.js",
+      "path---who-will-cry-at-your-funeral-b579326c947436f25154.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
