@@ -5,8 +5,8 @@
       "component---src-pages-index-js-d40f7e497e45ad932f63.js.map"
     ],
     "path---": [
-      "path----a1326e3a7ddfbe893948.js",
-      "path----a1326e3a7ddfbe893948.js.map"
+      "path----1c427426765d05988319.js",
+      "path----1c427426765d05988319.js.map"
     ],
     "path---category-yoga": [
       "path---category-yoga-152d67e2477b0aa0632c.js",
@@ -20,9 +20,13 @@
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js",
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js.map"
     ],
+    "path---the-way-to-happiness": [
+      "path---the-way-to-happiness-47336c3eddb2dc7e79b4.js",
+      "path---the-way-to-happiness-47336c3eddb2dc7e79b4.js.map"
+    ],
     "path---first-blog-on-gatsby": [
-      "path---first-blog-on-gatsby-0fd5bfb1899698a6a81c.js",
-      "path---first-blog-on-gatsby-0fd5bfb1899698a6a81c.js.map"
+      "path---first-blog-on-gatsby-5b6eff8d55a853fdcfdc.js",
+      "path---first-blog-on-gatsby-5b6eff8d55a853fdcfdc.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -33,20 +37,20 @@
       "path---category-blog-e803821b850cdf03bdf0.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-56ece71d7b55533bcaad.js",
-      "component---src-layouts-index-js-56ece71d7b55533bcaad.js.map"
+      "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js",
+      "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-a5fae74b58277587e41f.js",
-      "path---category-a5fae74b58277587e41f.js.map"
+      "path---category-04eb5573b35d39251bf7.js",
+      "path---category-04eb5573b35d39251bf7.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-a5fae74b58277587e41f.js",
-      "path---index-a5fae74b58277587e41f.js.map"
+      "path---index-04eb5573b35d39251bf7.js",
+      "path---index-04eb5573b35d39251bf7.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -63,8 +67,8 @@
       "build-js-styles.css.map"
     ],
     "path---success": [
-      "path---success-71dd1cc9eb4f5ae3d811.js",
-      "path---success-71dd1cc9eb4f5ae3d811.js.map"
+      "path---success-58e523ab35cca13763c1.js",
+      "path---success-58e523ab35cca13763c1.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -75,8 +79,8 @@
       "path---contact-206ac74de0d3aab26f03.js.map"
     ],
     "path---draft-post": [
-      "path---draft-post-2b19f5c9284cab94c932.js",
-      "path---draft-post-2b19f5c9284cab94c932.js.map"
+      "path---draft-post-2cd4155b5e09297913c8.js",
+      "path---draft-post-2cd4155b5e09297913c8.js.map"
     ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-3207088e59bddadc3c4f.js",
@@ -87,13 +91,13 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---hi-yoga": [
-      "path---hi-yoga-68436ab862e3194e2568.js",
-      "path---hi-yoga-68436ab862e3194e2568.js.map"
+      "path---hi-yoga-f3e705d46689210ae1a2.js",
+      "path---hi-yoga-f3e705d46689210ae1a2.js.map"
     ],
     "app": [
-      "app-370da52db1e5446da878.js",
+      "app-0f89fa144157430652e4.js",
       "build-js-styles.css",
-      "app-370da52db1e5446da878.js.map",
+      "app-0f89fa144157430652e4.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -108,13 +112,17 @@
       "path---search-9a06981e501e915a4854.js",
       "path---search-9a06981e501e915a4854.js.map"
     ],
+    "path---category-reading-notes": [
+      "path---category-reading-notes-cbbcc048e0ab86debc95.js",
+      "path---category-reading-notes-cbbcc048e0ab86debc95.js.map"
+    ],
     "path---category-sayings": [
       "path---category-sayings-b931c398ebdabcbac2e2.js",
       "path---category-sayings-b931c398ebdabcbac2e2.js.map"
     ],
     "path---about": [
-      "path---about-195f12b84e02b656095f.js",
-      "path---about-195f12b84e02b656095f.js.map"
+      "path---about-7bc236745adde0449c0e.js",
+      "path---about-7bc236745adde0449c0e.js.map"
     ]
   }
 }

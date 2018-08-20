@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{193:function(t,e){t.exports={data:{pages:{edges:[{node:{fields:{slug:"/about/",prefix:"1"},frontmatter:{title:"About",menuTitle:"About"}}}]},footnote:{id:"/home/runsisi/ananjingjing/anjing1008.github.io/content/parts/footnote.md absPath of file >>> MarkdownRemark",html:'<ul>\n<li>built with <a href="https://www.gatsbyjs.org/">Gatsby</a></li>\n<li>deliverd by <a href="https://pages.github.com/">GitHub Pages</a></li>\n</ul>'}},layoutContext:{}}}});
+//# sourceMappingURL=path----1c427426765d05988319.js.map
