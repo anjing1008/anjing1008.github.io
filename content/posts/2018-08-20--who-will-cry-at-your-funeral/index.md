@@ -1,6 +1,6 @@
 ---
 title: Who will cry at your funeral? 
-category: thinking 
+category: thought 
 cover: grave.jpg
 author: Jane
 ---

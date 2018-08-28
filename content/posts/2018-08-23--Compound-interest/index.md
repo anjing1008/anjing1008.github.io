@@ -1,6 +1,6 @@
 ---
 title: Do you know "compound interest"? 
-category: thinking 
+category: thought 
 cover: compound_interest.jpg
 author: Jane
 ---
