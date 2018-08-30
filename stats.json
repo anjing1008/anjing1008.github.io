@@ -1,12 +1,16 @@
 {
   "assetsByChunkName": {
+    "path---communicate-with-someone": [
+      "path---communicate-with-someone-4ca4cbd6e3463ac6460a.js",
+      "path---communicate-with-someone-4ca4cbd6e3463ac6460a.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d40f7e497e45ad932f63.js",
       "component---src-pages-index-js-d40f7e497e45ad932f63.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-8d7aef8f9910a5f5d09a.js",
-      "path---category-thought-8d7aef8f9910a5f5d09a.js.map"
+      "path---category-thought-afbbee2205480c0532a7.js",
+      "path---category-thought-afbbee2205480c0532a7.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -45,24 +49,24 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-7d2d02ba0a29e7ac2fe3.js",
-      "path---category-7d2d02ba0a29e7ac2fe3.js.map"
+      "path---category-1954a733393306f59cac.js",
+      "path---category-1954a733393306f59cac.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-7d2d02ba0a29e7ac2fe3.js",
-      "path---index-7d2d02ba0a29e7ac2fe3.js.map"
+      "path---index-1954a733393306f59cac.js",
+      "path---index-1954a733393306f59cac.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
       "component---src-pages-search-js-f3a1b414ce3678c34347.js.map"
     ],
     "path---compound-interest": [
-      "path---compound-interest-9df05b835214bf38499f.js",
-      "path---compound-interest-9df05b835214bf38499f.js.map"
+      "path---compound-interest-9bfab08fc09e4fa9ac64.js",
+      "path---compound-interest-9bfab08fc09e4fa9ac64.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-cf325d2e9bf981eec2f6.js",
@@ -103,9 +107,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-6efe4829799740ccef6b.js",
+      "app-29a970fe732843984311.js",
       "build-js-styles.css",
-      "app-6efe4829799740ccef6b.js.map",
+      "app-29a970fe732843984311.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
