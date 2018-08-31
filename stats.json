@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "path---communicate-with-someone": [
-      "path---communicate-with-someone-4ca4cbd6e3463ac6460a.js",
-      "path---communicate-with-someone-4ca4cbd6e3463ac6460a.js.map"
+      "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js",
+      "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d40f7e497e45ad932f63.js",
       "component---src-pages-index-js-d40f7e497e45ad932f63.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-afbbee2205480c0532a7.js",
-      "path---category-thought-afbbee2205480c0532a7.js.map"
+      "path---category-thought-436bdc6819508e0c3b2f.js",
+      "path---category-thought-436bdc6819508e0c3b2f.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -23,6 +23,10 @@
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-bc31476bc211c53cc009.js",
       "component---src-pages-contact-js-bc31476bc211c53cc009.js.map"
+    ],
+    "path---who-are-you": [
+      "path---who-are-you-d2f47a54cb8006d0190f.js",
+      "path---who-are-you-d2f47a54cb8006d0190f.js.map"
     ],
     "component---src-templates-category-template-js": [
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js",
@@ -49,16 +53,16 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-1954a733393306f59cac.js",
-      "path---category-1954a733393306f59cac.js.map"
+      "path---category-b52acddece27d21fbe81.js",
+      "path---category-b52acddece27d21fbe81.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-1954a733393306f59cac.js",
-      "path---index-1954a733393306f59cac.js.map"
+      "path---index-b52acddece27d21fbe81.js",
+      "path---index-b52acddece27d21fbe81.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -107,9 +111,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-29a970fe732843984311.js",
+      "app-342cb8a1e67180088b21.js",
       "build-js-styles.css",
-      "app-29a970fe732843984311.js.map",
+      "app-342cb8a1e67180088b21.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
