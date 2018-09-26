@@ -4,13 +4,17 @@
       "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js",
       "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js.map"
     ],
+    "path---time-management": [
+      "path---time-management-c9ea9d69c6f28c839948.js",
+      "path---time-management-c9ea9d69c6f28c839948.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d40f7e497e45ad932f63.js",
       "component---src-pages-index-js-d40f7e497e45ad932f63.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-ebf4573f391e8e603570.js",
-      "path---category-thought-ebf4573f391e8e603570.js.map"
+      "path---category-thought-0d44ac4a0616b64b972e.js",
+      "path---category-thought-0d44ac4a0616b64b972e.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -33,8 +37,8 @@
       "path---who-are-you-0a4132fb6d60c5a5a802.js.map"
     ],
     "path---put-yourself": [
-      "path---put-yourself-7c45c26f514fb6bfa204.js",
-      "path---put-yourself-7c45c26f514fb6bfa204.js.map"
+      "path---put-yourself-8fe86a96d5a8f3d02932.js",
+      "path---put-yourself-8fe86a96d5a8f3d02932.js.map"
     ],
     "component---src-templates-category-template-js": [
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js",
@@ -61,16 +65,16 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-19f8266443f8e7b9b715.js",
-      "path---category-19f8266443f8e7b9b715.js.map"
+      "path---category-f6b53efcd47c6a31919a.js",
+      "path---category-f6b53efcd47c6a31919a.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-19f8266443f8e7b9b715.js",
-      "path---index-19f8266443f8e7b9b715.js.map"
+      "path---index-f6b53efcd47c6a31919a.js",
+      "path---index-f6b53efcd47c6a31919a.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -119,9 +123,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-d3708dc84cc2130ebe23.js",
+      "app-84a61e7c9a9a24457c3b.js",
       "build-js-styles.css",
-      "app-d3708dc84cc2130ebe23.js.map",
+      "app-84a61e7c9a9a24457c3b.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
