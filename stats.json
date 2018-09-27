@@ -5,16 +5,16 @@
       "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js.map"
     ],
     "path---time-management": [
-      "path---time-management-c9ea9d69c6f28c839948.js",
-      "path---time-management-c9ea9d69c6f28c839948.js.map"
+      "path---time-management-82109bef203082b3799d.js",
+      "path---time-management-82109bef203082b3799d.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d40f7e497e45ad932f63.js",
       "component---src-pages-index-js-d40f7e497e45ad932f63.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-0d44ac4a0616b64b972e.js",
-      "path---category-thought-0d44ac4a0616b64b972e.js.map"
+      "path---category-thought-805ba289fd9764a9d4d4.js",
+      "path---category-thought-805ba289fd9764a9d4d4.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -31,6 +31,10 @@
     "path---why-you-are-angry": [
       "path---why-you-are-angry-15d9a39bb96b713f178b.js",
       "path---why-you-are-angry-15d9a39bb96b713f178b.js.map"
+    ],
+    "path---what-is-the-sweet-affection": [
+      "path---what-is-the-sweet-affection-6df02170aa95d5652cda.js",
+      "path---what-is-the-sweet-affection-6df02170aa95d5652cda.js.map"
     ],
     "path---who-are-you": [
       "path---who-are-you-0a4132fb6d60c5a5a802.js",
@@ -65,16 +69,16 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-f6b53efcd47c6a31919a.js",
-      "path---category-f6b53efcd47c6a31919a.js.map"
+      "path---category-00e22493078d27f9b852.js",
+      "path---category-00e22493078d27f9b852.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-f6b53efcd47c6a31919a.js",
-      "path---index-f6b53efcd47c6a31919a.js.map"
+      "path---index-00e22493078d27f9b852.js",
+      "path---index-00e22493078d27f9b852.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -123,9 +127,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-84a61e7c9a9a24457c3b.js",
+      "app-bf240c3e61c9a75603d4.js",
       "build-js-styles.css",
-      "app-84a61e7c9a9a24457c3b.js.map",
+      "app-bf240c3e61c9a75603d4.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
