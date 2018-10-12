@@ -65,24 +65,28 @@
       "path---category-blog-e803821b850cdf03bdf0.js.map"
     ],
     "path---one-yuan-coin": [
-      "path---one-yuan-coin-efd70f618cb7024620e4.js",
-      "path---one-yuan-coin-efd70f618cb7024620e4.js.map"
+      "path---one-yuan-coin-69d25fc9b680ee6a1cc5.js",
+      "path---one-yuan-coin-69d25fc9b680ee6a1cc5.js.map"
+    ],
+    "path---remember-me": [
+      "path---remember-me-a2a09506602378da0d29.js",
+      "path---remember-me-a2a09506602378da0d29.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js",
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-d3fd9319df5067376783.js",
-      "path---category-d3fd9319df5067376783.js.map"
+      "path---category-fb1d83bc864c334a2aac.js",
+      "path---category-fb1d83bc864c334a2aac.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-d3fd9319df5067376783.js",
-      "path---index-d3fd9319df5067376783.js.map"
+      "path---index-fb1d83bc864c334a2aac.js",
+      "path---index-fb1d83bc864c334a2aac.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -122,6 +126,10 @@
       "path---draft-post-2cd4155b5e09297913c8.js",
       "path---draft-post-2cd4155b5e09297913c8.js.map"
     ],
+    "path---category-miss": [
+      "path---category-miss-fd00de80112dc44d726e.js",
+      "path---category-miss-fd00de80112dc44d726e.js.map"
+    ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-3207088e59bddadc3c4f.js",
       "component---src-templates-post-template-js-3207088e59bddadc3c4f.js.map"
@@ -135,9 +143,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-867d3ff071e9fa1a94b1.js",
+      "app-1a47f1125b05bbe6fc26.js",
       "build-js-styles.css",
-      "app-867d3ff071e9fa1a94b1.js.map",
+      "app-1a47f1125b05bbe6fc26.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [

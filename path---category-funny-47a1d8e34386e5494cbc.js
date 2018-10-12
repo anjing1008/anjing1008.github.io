@@ -1,2 +1,2 @@
-webpackJsonp([0xa1e61309dd8a],{672:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/One-yuan-coin/"},excerpt:"…",timeToRead:1,frontmatter:{title:"One yuan coin",category:"funny"}}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{category:"funny"}}}});
+webpackJsonp([0xa1e61309dd8a],{674:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/One-yuan-coin/"},excerpt:"…",timeToRead:1,frontmatter:{title:"One yuan coin",category:"funny"}}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{category:"funny"}}}});
 //# sourceMappingURL=path---category-funny-47a1d8e34386e5494cbc.js.map
