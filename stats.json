@@ -64,21 +64,25 @@
       "path---category-blog-e803821b850cdf03bdf0.js",
       "path---category-blog-e803821b850cdf03bdf0.js.map"
     ],
+    "path---one-yuan-coin": [
+      "path---one-yuan-coin-efd70f618cb7024620e4.js",
+      "path---one-yuan-coin-efd70f618cb7024620e4.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js",
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-2011eb51adccca0731e5.js",
-      "path---category-2011eb51adccca0731e5.js.map"
+      "path---category-d3fd9319df5067376783.js",
+      "path---category-d3fd9319df5067376783.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-2011eb51adccca0731e5.js",
-      "path---index-2011eb51adccca0731e5.js.map"
+      "path---index-d3fd9319df5067376783.js",
+      "path---index-d3fd9319df5067376783.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -101,6 +105,10 @@
     "path---success": [
       "path---success-58e523ab35cca13763c1.js",
       "path---success-58e523ab35cca13763c1.js.map"
+    ],
+    "path---category-funny": [
+      "path---category-funny-47a1d8e34386e5494cbc.js",
+      "path---category-funny-47a1d8e34386e5494cbc.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -127,9 +135,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-34f76d0afa7155ce5cba.js",
+      "app-867d3ff071e9fa1a94b1.js",
       "build-js-styles.css",
-      "app-34f76d0afa7155ce5cba.js.map",
+      "app-867d3ff071e9fa1a94b1.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -161,8 +169,8 @@
       "path---about-7bc236745adde0449c0e.js.map"
     ],
     "path---i-am-a-human-being": [
-      "path---i-am-a-human-being-8ea07942a21d9bc55d44.js",
-      "path---i-am-a-human-being-8ea07942a21d9bc55d44.js.map"
+      "path---i-am-a-human-being-9a00e83fc897ffda0354.js",
+      "path---i-am-a-human-being-9a00e83fc897ffda0354.js.map"
     ]
   }
 }
