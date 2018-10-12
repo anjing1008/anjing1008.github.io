@@ -2,7 +2,7 @@
 title: One yuan coin   
 category: funny
 cover: mooncakes.jpg
-author: 文:Jane  图:贝贝
+author: 文:Jane, 图(月饼):贝贝
 ---
 
 ###润物细无声 —— 影响无处不在       
