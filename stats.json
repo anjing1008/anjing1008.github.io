@@ -56,6 +56,10 @@
       "path---first-blog-on-gatsby-5b6eff8d55a853fdcfdc.js",
       "path---first-blog-on-gatsby-5b6eff8d55a853fdcfdc.js.map"
     ],
+    "path---where-are-you": [
+      "path---where-are-you-78cf36395110faec3c33.js",
+      "path---where-are-you-78cf36395110faec3c33.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
@@ -69,24 +73,24 @@
       "path---one-yuan-coin-69d25fc9b680ee6a1cc5.js.map"
     ],
     "path---remember-me": [
-      "path---remember-me-200687418fe18df0c530.js",
-      "path---remember-me-200687418fe18df0c530.js.map"
+      "path---remember-me-2d3b47a9d0fe24dd9668.js",
+      "path---remember-me-2d3b47a9d0fe24dd9668.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js",
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-d0a7bda973d55e838383.js",
-      "path---category-d0a7bda973d55e838383.js.map"
+      "path---category-4bcb6ecdb0c755537e63.js",
+      "path---category-4bcb6ecdb0c755537e63.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-d0a7bda973d55e838383.js",
-      "path---index-d0a7bda973d55e838383.js.map"
+      "path---index-4bcb6ecdb0c755537e63.js",
+      "path---index-4bcb6ecdb0c755537e63.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -111,8 +115,8 @@
       "path---success-58e523ab35cca13763c1.js.map"
     ],
     "path---category-funny": [
-      "path---category-funny-47a1d8e34386e5494cbc.js",
-      "path---category-funny-47a1d8e34386e5494cbc.js.map"
+      "path---category-funny-be1661d2860775e869aa.js",
+      "path---category-funny-be1661d2860775e869aa.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -143,9 +147,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-1a47f1125b05bbe6fc26.js",
+      "app-5821c610326547ad630d.js",
       "build-js-styles.css",
-      "app-1a47f1125b05bbe6fc26.js.map",
+      "app-5821c610326547ad630d.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
