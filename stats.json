@@ -57,8 +57,8 @@
       "path---first-blog-on-gatsby-5b6eff8d55a853fdcfdc.js.map"
     ],
     "path---where-are-you": [
-      "path---where-are-you-78cf36395110faec3c33.js",
-      "path---where-are-you-78cf36395110faec3c33.js.map"
+      "path---where-are-you-422bac1d575012654a6f.js",
+      "path---where-are-you-422bac1d575012654a6f.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -81,16 +81,16 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-4bcb6ecdb0c755537e63.js",
-      "path---category-4bcb6ecdb0c755537e63.js.map"
+      "path---category-95f1c64c6a8ff07237e6.js",
+      "path---category-95f1c64c6a8ff07237e6.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-4bcb6ecdb0c755537e63.js",
-      "path---index-4bcb6ecdb0c755537e63.js.map"
+      "path---index-95f1c64c6a8ff07237e6.js",
+      "path---index-95f1c64c6a8ff07237e6.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -115,12 +115,16 @@
       "path---success-58e523ab35cca13763c1.js.map"
     ],
     "path---category-funny": [
-      "path---category-funny-be1661d2860775e869aa.js",
-      "path---category-funny-be1661d2860775e869aa.js.map"
+      "path---category-funny-8360870413ff2da8fc23.js",
+      "path---category-funny-8360870413ff2da8fc23.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---magic-magic": [
+      "path---magic-magic-3f5b83bc62bf9bccb796.js",
+      "path---magic-magic-3f5b83bc62bf9bccb796.js.map"
     ],
     "path---contact": [
       "path---contact-206ac74de0d3aab26f03.js",
@@ -147,9 +151,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-5821c610326547ad630d.js",
+      "app-e676e1337fceae538aba.js",
       "build-js-styles.css",
-      "app-5821c610326547ad630d.js.map",
+      "app-e676e1337fceae538aba.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
