@@ -5,7 +5,7 @@ cover: fishing.jpg
 author: 文:Jane 图:贝贝 
 ---
 
-####感谢贝贝提供封面&插图(海上捕鱼)     
+####感谢贝贝提供插图(海上捕鱼)     
      
 ![unsplash.com](./fishing.jpg)
 
