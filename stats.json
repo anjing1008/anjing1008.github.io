@@ -69,8 +69,8 @@
       "path---where-are-you-26e14a9d9ab062c85476.js.map"
     ],
     "path---meditation": [
-      "path---meditation-2fd1b0ef5b7036091c5d.js",
-      "path---meditation-2fd1b0ef5b7036091c5d.js.map"
+      "path---meditation-fa382d57559d5d2f27f6.js",
+      "path---meditation-fa382d57559d5d2f27f6.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -79,6 +79,10 @@
     "path---category-blog": [
       "path---category-blog-e803821b850cdf03bdf0.js",
       "path---category-blog-e803821b850cdf03bdf0.js.map"
+    ],
+    "path---how-to-introduce-yourself-to-children": [
+      "path---how-to-introduce-yourself-to-children-29ab250ad93361e78c77.js",
+      "path---how-to-introduce-yourself-to-children-29ab250ad93361e78c77.js.map"
     ],
     "path---one-yuan-coin": [
       "path---one-yuan-coin-69d25fc9b680ee6a1cc5.js",
@@ -93,8 +97,8 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-e64f6c08bbaaf39262ac.js",
-      "path---category-e64f6c08bbaaf39262ac.js.map"
+      "path---category-124bcf324413066034bb.js",
+      "path---category-124bcf324413066034bb.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
@@ -105,8 +109,8 @@
       "path---category-practice-8019e76ecbe950dab033.js.map"
     ],
     "path---index": [
-      "path---index-e64f6c08bbaaf39262ac.js",
-      "path---index-e64f6c08bbaaf39262ac.js.map"
+      "path---index-124bcf324413066034bb.js",
+      "path---index-124bcf324413066034bb.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -135,8 +139,8 @@
       "path---success-58e523ab35cca13763c1.js.map"
     ],
     "path---category-funny": [
-      "path---category-funny-8360870413ff2da8fc23.js",
-      "path---category-funny-8360870413ff2da8fc23.js.map"
+      "path---category-funny-f8c4b5533d9af32787fa.js",
+      "path---category-funny-f8c4b5533d9af32787fa.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -175,9 +179,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-d0058dcf44e029aec364.js",
+      "app-2dcc3b19914aff642505.js",
       "build-js-styles.css",
-      "app-d0058dcf44e029aec364.js.map",
+      "app-2dcc3b19914aff642505.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
