@@ -8,6 +8,10 @@
       "path---time-management-82109bef203082b3799d.js",
       "path---time-management-82109bef203082b3799d.js.map"
     ],
+    "path---sincerity": [
+      "path---sincerity-d107872a53da27dbb5b0.js",
+      "path---sincerity-d107872a53da27dbb5b0.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d40f7e497e45ad932f63.js",
       "component---src-pages-index-js-d40f7e497e45ad932f63.js.map"
@@ -93,8 +97,8 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-0c29bf2b4b3748e27dc9.js",
-      "path---category-0c29bf2b4b3748e27dc9.js.map"
+      "path---category-6fefaf32835471190747.js",
+      "path---category-6fefaf32835471190747.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
@@ -105,8 +109,8 @@
       "path---category-practice-8019e76ecbe950dab033.js.map"
     ],
     "path---index": [
-      "path---index-0c29bf2b4b3748e27dc9.js",
-      "path---index-0c29bf2b4b3748e27dc9.js.map"
+      "path---index-6fefaf32835471190747.js",
+      "path---index-6fefaf32835471190747.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -135,8 +139,8 @@
       "path---success-58e523ab35cca13763c1.js.map"
     ],
     "path---category-funny": [
-      "path---category-funny-53abd8e1498079c5f421.js",
-      "path---category-funny-53abd8e1498079c5f421.js.map"
+      "path---category-funny-9bcccb60cd9990b20fee.js",
+      "path---category-funny-9bcccb60cd9990b20fee.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -171,17 +175,17 @@
       "path---plan-b-e0ba58e497412e580c3a.js.map"
     ],
     "path---how-to-introduce-yourself": [
-      "path---how-to-introduce-yourself-e490c41cbaed179410fd.js",
-      "path---how-to-introduce-yourself-e490c41cbaed179410fd.js.map"
+      "path---how-to-introduce-yourself-844f3d0b80b214abeafa.js",
+      "path---how-to-introduce-yourself-844f3d0b80b214abeafa.js.map"
     ],
     "path---hi-yoga": [
       "path---hi-yoga-03b7dbaab50c3b146ea5.js",
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-d643aa370acae78ade72.js",
+      "app-646055769120349d697b.js",
       "build-js-styles.css",
-      "app-d643aa370acae78ade72.js.map",
+      "app-646055769120349d697b.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -191,6 +195,10 @@
     "path---who-will-cry-at-your-funeral": [
       "path---who-will-cry-at-your-funeral-b3402b804600958eb189.js",
       "path---who-will-cry-at-your-funeral-b3402b804600958eb189.js.map"
+    ],
+    "path---study-hard-delicious-food": [
+      "path---study-hard-delicious-food-8b062bf8bb0721c2425b.js",
+      "path---study-hard-delicious-food-8b062bf8bb0721c2425b.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
