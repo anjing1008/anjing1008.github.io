@@ -8,10 +8,6 @@
       "path---time-management-82109bef203082b3799d.js",
       "path---time-management-82109bef203082b3799d.js.map"
     ],
-    "path---sincerity": [
-      "path---sincerity-d107872a53da27dbb5b0.js",
-      "path---sincerity-d107872a53da27dbb5b0.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d40f7e497e45ad932f63.js",
       "component---src-pages-index-js-d40f7e497e45ad932f63.js.map"
@@ -97,8 +93,8 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-c7b31e6647d450d8c4fc.js",
-      "path---category-c7b31e6647d450d8c4fc.js.map"
+      "path---category-47b53f5e37ffc1fc7cfa.js",
+      "path---category-47b53f5e37ffc1fc7cfa.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
@@ -113,8 +109,8 @@
       "path---real-word-f0057639f3b97d6093c0.js.map"
     ],
     "path---index": [
-      "path---index-c7b31e6647d450d8c4fc.js",
-      "path---index-c7b31e6647d450d8c4fc.js.map"
+      "path---index-47b53f5e37ffc1fc7cfa.js",
+      "path---index-47b53f5e37ffc1fc7cfa.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -183,17 +179,17 @@
       "path---plan-b-e0ba58e497412e580c3a.js.map"
     ],
     "path---how-to-introduce-yourself": [
-      "path---how-to-introduce-yourself-844f3d0b80b214abeafa.js",
-      "path---how-to-introduce-yourself-844f3d0b80b214abeafa.js.map"
+      "path---how-to-introduce-yourself-b4cf0db1945cb5cde3eb.js",
+      "path---how-to-introduce-yourself-b4cf0db1945cb5cde3eb.js.map"
     ],
     "path---hi-yoga": [
       "path---hi-yoga-03b7dbaab50c3b146ea5.js",
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-1b489f37f9d61971d781.js",
+      "app-5af8a03dcde03db2b5a8.js",
       "build-js-styles.css",
-      "app-1b489f37f9d61971d781.js.map",
+      "app-5af8a03dcde03db2b5a8.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -205,8 +201,8 @@
       "path---who-will-cry-at-your-funeral-b3402b804600958eb189.js.map"
     ],
     "path---study-hard-delicious-food": [
-      "path---study-hard-delicious-food-14cf39d662a69a3ca418.js",
-      "path---study-hard-delicious-food-14cf39d662a69a3ca418.js.map"
+      "path---study-hard-delicious-food-e5236fd9d2cb1047c353.js",
+      "path---study-hard-delicious-food-e5236fd9d2cb1047c353.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
