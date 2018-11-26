@@ -21,8 +21,8 @@
       "path---sound-practice-83700ba74aa6e015baf3.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-029a8ac5c4f54709f957.js",
-      "path---category-thought-029a8ac5c4f54709f957.js.map"
+      "path---category-thought-d44a08662684159b4730.js",
+      "path---category-thought-d44a08662684159b4730.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -97,8 +97,8 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-cf345c20b4fa8df87808.js",
-      "path---category-cf345c20b4fa8df87808.js.map"
+      "path---category-c7b31e6647d450d8c4fc.js",
+      "path---category-c7b31e6647d450d8c4fc.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
@@ -108,9 +108,13 @@
       "path---category-practice-8019e76ecbe950dab033.js",
       "path---category-practice-8019e76ecbe950dab033.js.map"
     ],
+    "path---real-word": [
+      "path---real-word-f0057639f3b97d6093c0.js",
+      "path---real-word-f0057639f3b97d6093c0.js.map"
+    ],
     "path---index": [
-      "path---index-cf345c20b4fa8df87808.js",
-      "path---index-cf345c20b4fa8df87808.js.map"
+      "path---index-c7b31e6647d450d8c4fc.js",
+      "path---index-c7b31e6647d450d8c4fc.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -171,8 +175,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---rice-noodles": [
-      "path---rice-noodles-0cfd48ac92dc8ad2ebba.js",
-      "path---rice-noodles-0cfd48ac92dc8ad2ebba.js.map"
+      "path---rice-noodles-b6a9e58567798fcc20da.js",
+      "path---rice-noodles-b6a9e58567798fcc20da.js.map"
     ],
     "path---plan-b": [
       "path---plan-b-e0ba58e497412e580c3a.js",
@@ -187,9 +191,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-6ff0be2700f551b3c5a8.js",
+      "app-1b489f37f9d61971d781.js",
       "build-js-styles.css",
-      "app-6ff0be2700f551b3c5a8.js.map",
+      "app-1b489f37f9d61971d781.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
