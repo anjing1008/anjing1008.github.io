@@ -1,6 +1,6 @@
 ---
 title: The essence of communication —— sincerity?       
-category: 
+category:affair 
 cover: mushroom.jpg
 author: 文:Jane 图(地刺+青椒射手+阳光菇):贝贝
 ---
