@@ -17,8 +17,8 @@
       "path---sound-practice-83700ba74aa6e015baf3.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-d79b637a4b1cbf8853b1.js",
-      "path---category-thought-d79b637a4b1cbf8853b1.js.map"
+      "path---category-thought-7e5a4e19bfb0655a47a7.js",
+      "path---category-thought-7e5a4e19bfb0655a47a7.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -55,6 +55,10 @@
     "component---src-templates-category-template-js": [
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js",
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js.map"
+    ],
+    "path---out-of-work": [
+      "path---out-of-work-30222bcf566649aea123.js",
+      "path---out-of-work-30222bcf566649aea123.js.map"
     ],
     "path---the-way-to-happiness": [
       "path---the-way-to-happiness-aa83bb608f4b7dc9ebb5.js",
@@ -93,8 +97,8 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-29fbbd180288576c9db0.js",
-      "path---category-29fbbd180288576c9db0.js.map"
+      "path---category-47f51a18061ef4a4e119.js",
+      "path---category-47f51a18061ef4a4e119.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
@@ -105,16 +109,20 @@
       "path---category-practice-8019e76ecbe950dab033.js.map"
     ],
     "path---affinity": [
-      "path---affinity-9b4762bb061a1bf9ff6a.js",
-      "path---affinity-9b4762bb061a1bf9ff6a.js.map"
+      "path---affinity-dd99d0544b84c3aa35f7.js",
+      "path---affinity-dd99d0544b84c3aa35f7.js.map"
+    ],
+    "path---swimming": [
+      "path---swimming-f4422a4860358603afef.js",
+      "path---swimming-f4422a4860358603afef.js.map"
     ],
     "path---real-word": [
-      "path---real-word-9d7aa9a2c3e94ef2730c.js",
-      "path---real-word-9d7aa9a2c3e94ef2730c.js.map"
+      "path---real-word-4c3445ba05d7fb211dbe.js",
+      "path---real-word-4c3445ba05d7fb211dbe.js.map"
     ],
     "path---index": [
-      "path---index-29fbbd180288576c9db0.js",
-      "path---index-29fbbd180288576c9db0.js.map"
+      "path---index-47f51a18061ef4a4e119.js",
+      "path---index-47f51a18061ef4a4e119.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -191,9 +199,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-4e56a10eccce672a505a.js",
+      "app-6e4011069e9268235e00.js",
       "build-js-styles.css",
-      "app-4e56a10eccce672a505a.js.map",
+      "app-6e4011069e9268235e00.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
