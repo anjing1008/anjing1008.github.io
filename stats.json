@@ -17,8 +17,8 @@
       "path---sound-practice-83700ba74aa6e015baf3.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-7e5a4e19bfb0655a47a7.js",
-      "path---category-thought-7e5a4e19bfb0655a47a7.js.map"
+      "path---category-thought-9909b1665d4704f0d9dd.js",
+      "path---category-thought-9909b1665d4704f0d9dd.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -97,8 +97,8 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-47f51a18061ef4a4e119.js",
-      "path---category-47f51a18061ef4a4e119.js.map"
+      "path---category-8657185fb3dabdb397ff.js",
+      "path---category-8657185fb3dabdb397ff.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
@@ -109,24 +109,28 @@
       "path---category-practice-8019e76ecbe950dab033.js.map"
     ],
     "path---affinity": [
-      "path---affinity-dd99d0544b84c3aa35f7.js",
-      "path---affinity-dd99d0544b84c3aa35f7.js.map"
+      "path---affinity-e5e59d17a257425e1151.js",
+      "path---affinity-e5e59d17a257425e1151.js.map"
     ],
     "path---swimming": [
-      "path---swimming-f4422a4860358603afef.js",
-      "path---swimming-f4422a4860358603afef.js.map"
+      "path---swimming-5ca9c9b75642263be31b.js",
+      "path---swimming-5ca9c9b75642263be31b.js.map"
     ],
     "path---real-word": [
       "path---real-word-4c3445ba05d7fb211dbe.js",
       "path---real-word-4c3445ba05d7fb211dbe.js.map"
     ],
     "path---index": [
-      "path---index-47f51a18061ef4a4e119.js",
-      "path---index-47f51a18061ef4a4e119.js.map"
+      "path---index-8657185fb3dabdb397ff.js",
+      "path---index-8657185fb3dabdb397ff.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
       "component---src-pages-search-js-f3a1b414ce3678c34347.js.map"
+    ],
+    "path---category-swimming": [
+      "path---category-swimming-660e4ddcb8bb1b635ff6.js",
+      "path---category-swimming-660e4ddcb8bb1b635ff6.js.map"
     ],
     "path---compound-interest": [
       "path---compound-interest-9bfab08fc09e4fa9ac64.js",
@@ -199,9 +203,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-6e4011069e9268235e00.js",
+      "app-e34cb8ba377abcf8b41c.js",
       "build-js-styles.css",
-      "app-6e4011069e9268235e00.js.map",
+      "app-e34cb8ba377abcf8b41c.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
