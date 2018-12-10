@@ -2,9 +2,9 @@
 title: out of work     
 category: thought  
 cover: zombie.jpg 
-author: 文:Jane 图(植物大战僵尸):贝贝
+author: 文:Jane 图(植物大战僵尸系列1):贝贝
 ---
-感谢贝贝提供插画(植物大战僵尸)                 
+感谢贝贝提供插画(植物大战僵尸 ·  系列1)                 
 
 ![unsplash.com](./zombie.jpg)
 
