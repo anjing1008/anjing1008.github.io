@@ -17,8 +17,8 @@
       "path---sound-practice-83700ba74aa6e015baf3.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-9909b1665d4704f0d9dd.js",
-      "path---category-thought-9909b1665d4704f0d9dd.js.map"
+      "path---category-thought-3fdfbaf4e32a3d1797a9.js",
+      "path---category-thought-3fdfbaf4e32a3d1797a9.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -57,8 +57,8 @@
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js.map"
     ],
     "path---out-of-work": [
-      "path---out-of-work-30222bcf566649aea123.js",
-      "path---out-of-work-30222bcf566649aea123.js.map"
+      "path---out-of-work-fe14a4a0b00c6e2388c0.js",
+      "path---out-of-work-fe14a4a0b00c6e2388c0.js.map"
     ],
     "path---the-way-to-happiness": [
       "path---the-way-to-happiness-aa83bb608f4b7dc9ebb5.js",
@@ -97,8 +97,8 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-8657185fb3dabdb397ff.js",
-      "path---category-8657185fb3dabdb397ff.js.map"
+      "path---category-36212c47d20712517aab.js",
+      "path---category-36212c47d20712517aab.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
@@ -113,16 +113,16 @@
       "path---affinity-e5e59d17a257425e1151.js.map"
     ],
     "path---swimming": [
-      "path---swimming-5ca9c9b75642263be31b.js",
-      "path---swimming-5ca9c9b75642263be31b.js.map"
+      "path---swimming-73c46adf7f9cc8cd5f5c.js",
+      "path---swimming-73c46adf7f9cc8cd5f5c.js.map"
     ],
     "path---real-word": [
       "path---real-word-4c3445ba05d7fb211dbe.js",
       "path---real-word-4c3445ba05d7fb211dbe.js.map"
     ],
     "path---index": [
-      "path---index-8657185fb3dabdb397ff.js",
-      "path---index-8657185fb3dabdb397ff.js.map"
+      "path---index-36212c47d20712517aab.js",
+      "path---index-36212c47d20712517aab.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
@@ -153,6 +153,10 @@
     "path---success": [
       "path---success-58e523ab35cca13763c1.js",
       "path---success-58e523ab35cca13763c1.js.map"
+    ],
+    "path---mode-of-think": [
+      "path---mode-of-think-c0fca9a6746d502a6b42.js",
+      "path---mode-of-think-c0fca9a6746d502a6b42.js.map"
     ],
     "path---category-funny": [
       "path---category-funny-7b1e38fc4b1943a73072.js",
@@ -203,9 +207,9 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
     "app": [
-      "app-e34cb8ba377abcf8b41c.js",
+      "app-acc012366d1feb27d1ca.js",
       "build-js-styles.css",
-      "app-e34cb8ba377abcf8b41c.js.map",
+      "app-acc012366d1feb27d1ca.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
