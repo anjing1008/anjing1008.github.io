@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---excessive-interoperability": [
+      "path---excessive-interoperability-7c5d92854ab7ae3471a1.js",
+      "path---excessive-interoperability-7c5d92854ab7ae3471a1.js.map"
+    ],
     "path---communicate-with-someone": [
       "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js",
       "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js.map"
@@ -17,8 +21,8 @@
       "path---sound-practice-83700ba74aa6e015baf3.js.map"
     ],
     "path---category-thought": [
-      "path---category-thought-3fdfbaf4e32a3d1797a9.js",
-      "path---category-thought-3fdfbaf4e32a3d1797a9.js.map"
+      "path---category-thought-1b002344848c8677a0d1.js",
+      "path---category-thought-1b002344848c8677a0d1.js.map"
     ],
     "path---": [
       "path----1c427426765d05988319.js",
@@ -29,8 +33,8 @@
       "path---category-security-61fa5afe5888afda1481.js.map"
     ],
     "path---category-yoga": [
-      "path---category-yoga-32adaaa466f0c0b57eaf.js",
-      "path---category-yoga-32adaaa466f0c0b57eaf.js.map"
+      "path---category-yoga-ce2568b1fa59541523ce.js",
+      "path---category-yoga-ce2568b1fa59541523ce.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-bc31476bc211c53cc009.js",
@@ -97,8 +101,8 @@
       "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
     ],
     "path---category": [
-      "path---category-36212c47d20712517aab.js",
-      "path---category-36212c47d20712517aab.js.map"
+      "path---category-30cc8ab8439634944132.js",
+      "path---category-30cc8ab8439634944132.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
@@ -121,16 +125,16 @@
       "path---real-word-4c3445ba05d7fb211dbe.js.map"
     ],
     "path---index": [
-      "path---index-36212c47d20712517aab.js",
-      "path---index-36212c47d20712517aab.js.map"
+      "path---index-30cc8ab8439634944132.js",
+      "path---index-30cc8ab8439634944132.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
       "component---src-pages-search-js-f3a1b414ce3678c34347.js.map"
     ],
     "path---category-swimming": [
-      "path---category-swimming-660e4ddcb8bb1b635ff6.js",
-      "path---category-swimming-660e4ddcb8bb1b635ff6.js.map"
+      "path---category-swimming-df974b8b45280bdaac0c.js",
+      "path---category-swimming-df974b8b45280bdaac0c.js.map"
     ],
     "path---compound-interest": [
       "path---compound-interest-9bfab08fc09e4fa9ac64.js",
@@ -155,8 +159,8 @@
       "path---success-58e523ab35cca13763c1.js.map"
     ],
     "path---mode-of-think": [
-      "path---mode-of-think-c0fca9a6746d502a6b42.js",
-      "path---mode-of-think-c0fca9a6746d502a6b42.js.map"
+      "path---mode-of-think-a2acdc4b60eb29d4124f.js",
+      "path---mode-of-think-a2acdc4b60eb29d4124f.js.map"
     ],
     "path---category-funny": [
       "path---category-funny-7b1e38fc4b1943a73072.js",
@@ -206,10 +210,14 @@
       "path---hi-yoga-03b7dbaab50c3b146ea5.js",
       "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
     ],
+    "path---yoga-asanas-tadasana": [
+      "path---yoga-asanas-tadasana-b6e66906b9c69a356458.js",
+      "path---yoga-asanas-tadasana-b6e66906b9c69a356458.js.map"
+    ],
     "app": [
-      "app-acc012366d1feb27d1ca.js",
+      "app-5c6dbf45a7843e466789.js",
       "build-js-styles.css",
-      "app-acc012366d1feb27d1ca.js.map",
+      "app-5c6dbf45a7843e466789.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -235,6 +243,10 @@
     "path---category-reading-notes": [
       "path---category-reading-notes-cbbcc048e0ab86debc95.js",
       "path---category-reading-notes-cbbcc048e0ab86debc95.js.map"
+    ],
+    "path---the-7-habits-of-highly-effective-people": [
+      "path---the-7-habits-of-highly-effective-people-8bb2f0fb117455edae2c.js",
+      "path---the-7-habits-of-highly-effective-people-8bb2f0fb117455edae2c.js.map"
     ],
     "path---category-sayings": [
       "path---category-sayings-b931c398ebdabcbac2e2.js",
