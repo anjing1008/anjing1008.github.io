@@ -6,7 +6,7 @@ author: 文:Jane 图(地刺+青椒射手+阳光菇):贝贝
 ---
 感谢贝贝提供插画(地刺+青椒射手+阳光菇)                 
 
-![unsplash.com](./mushroom.jpg)
+![](./mushroom.jpg)
 
       
 ###真诚，才是最有温度的。       

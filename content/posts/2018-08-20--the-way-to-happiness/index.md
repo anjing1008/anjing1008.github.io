@@ -7,7 +7,7 @@ author: Jane
 
 
 
-![unsplash.com](./happiness.jpg)
+![](./happiness.jpg)
 
 
 ###幸福的方法

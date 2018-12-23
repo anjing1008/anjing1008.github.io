@@ -6,7 +6,7 @@ author: 文:Jane 图(贝哥画的字):贝贝
 ---
 感谢贝贝提供插画(贝哥画的字)                 
 
-![unsplash.com](./words.jpg)
+![](./words.jpg)
 
       
 ###爱是一个动词，什么叫“爱是一个动词”？     

@@ -6,7 +6,7 @@ author: 文:Jane 图(三角鱼):贝贝
 ---
 感谢贝贝提供插画(三角鱼)                 
 
-![unsplash.com](./triangle.jpg)
+![](./triangle.jpg)
 
       
 故事1:

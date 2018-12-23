@@ -6,7 +6,7 @@ author: 文:Jane 图(水粉画 住在海底的螃蟹):贝贝
 ---
 感谢贝贝提供水粉画图(住在海底的螃蟹)           
 
-![unsplash.com](./seafloor_crabs.jpg)
+![](./seafloor_crabs.jpg)
 
 读大学的时候听说过瑜伽；         
 读研究生的时候体验过一段时间瑜伽；        

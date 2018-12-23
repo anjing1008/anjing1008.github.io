@@ -18,14 +18,14 @@ author: 文:Jane 图(馒头蛋糕):贝妈
 贝贝：好啊，好啊，做馒头生日蛋糕。我还想做章鱼型的馒头……    
        
 章鱼型馒头初型,还有玫瑰花馒头、小猪猪馒头、还有磨牙棒……     
-![unsplash.com](./cake1.jpg)
-![unsplash.com](./rose.jpg)
-![unsplash.com](./pig.jpg)
+![](./cake1.jpg)
+![](./rose.jpg)
+![](./pig.jpg)
 
        
 馒头出炉了，有没有垂涎若滴的感觉，o(∩_∩)o 哈哈      
 
-![unsplash.com](./whole_picture.jpg)
+![](./whole_picture.jpg)
 
 
 贝妈：贝贝，你以后上小学了，自己好好学习，回家妈妈就给你做好吃的，好不好？    

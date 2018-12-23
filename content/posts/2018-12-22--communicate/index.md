@@ -5,7 +5,7 @@ cover: ./沟通的艺术.png
 author: 文:Jane 
 ---
 
-![unsplash.com](./沟通的艺术.png)  
+![](./沟通的艺术.png)  
 
-![unsplash.com](./非暴力沟通.png)
+![](./非暴力沟通.png)
 

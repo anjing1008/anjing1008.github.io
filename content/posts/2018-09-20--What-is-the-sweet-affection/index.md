@@ -35,4 +35,4 @@ S同学说，跟opq一起出去玩挺开心的，平时相处也很顺畅，opq�
 
    
 
-![unsplash.com](./sweet_affection.jpg)
+![](./sweet_affection.jpg)

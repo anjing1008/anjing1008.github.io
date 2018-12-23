@@ -6,7 +6,7 @@ author: 文:Jane 图(泡泡射手):贝贝
 ---
 感谢贝贝提供插画(泡泡射手)           
 
-![unsplash.com](./bubble_shooter.jpg)
+![](./bubble_shooter.jpg)
 
 回想一下，在一个需要自我介绍的场景，你是如何自我介绍的？       
         

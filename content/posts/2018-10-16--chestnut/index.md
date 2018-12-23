@@ -6,7 +6,7 @@ author: 文:Jane
 ---
 ####附图为贝贝头皮上拔下来的板栗刺
      
-![unsplash.com](chestnut.jpg)
+![](chestnut.jpg)
 
 ###本篇记录贝贝被板栗砸到的经过，给家长们提醒：请让小朋友远离板栗树!!!       
     

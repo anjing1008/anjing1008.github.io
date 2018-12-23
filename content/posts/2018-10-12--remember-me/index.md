@@ -37,4 +37,4 @@ I hold you in my heart ……_
 贝贝：我小时候不懂，以为大人们说的人“去世了”是去天上做事，现在才明白“去世”就是死掉了……     
 
 
-![unsplash.com](./sky.jpg)
+![](./sky.jpg)

@@ -7,7 +7,7 @@ author: Jane
 
 
 
-![unsplash.com](./communicate.jpg)
+![](./communicate.jpg)
 
 
 ###你在工作中遇到过沟通问题吗?  
@@ -43,4 +43,4 @@ author: Jane
    
 ###善待自己，善待他人。
 
-![unsplash.com](./0828_yoga.jpg)
+![](./0828_yoga.jpg)

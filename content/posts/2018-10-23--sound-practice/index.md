@@ -46,4 +46,4 @@ _这个绕口令训练的是舌根部分。_
 
 
 
-![unsplash.com](./inkfish.jpg)
+![](./inkfish.jpg)

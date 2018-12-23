@@ -19,7 +19,7 @@ Y=（1+X%）^n
 
 
 
-![unsplash.com](./compound_interest.jpg)
+![](./compound_interest.jpg)
 
 
 

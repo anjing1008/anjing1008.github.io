@@ -38,4 +38,4 @@ author: Jane
 
 ###不与傻瓜论长短，常与同好争高下。
 
-![unsplash.com](./stretch.jpg)
+![](./stretch.jpg)

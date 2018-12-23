@@ -6,7 +6,7 @@ author: 文:Jane 图(植物大战僵尸 · 系列2):贝贝
 ---
 
 感谢贝贝提供的插画(植物大战僵尸 · 系列2)
-![unsplash.com](./plantsvszombies.jpg)
+![](./plantsvszombies.jpg)
      
 记得曾经看过一部科幻片《逃离克隆岛》，故事从电影中人物开始思考: 为何他脑海里有类此想法?由此，故事引入……       
        

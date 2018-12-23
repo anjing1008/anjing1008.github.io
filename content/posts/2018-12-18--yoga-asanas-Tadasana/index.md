@@ -6,7 +6,7 @@ author: 文:Jane 图(蝴蝶.jgp):贝贝
 ---
 感谢贝贝提供插画(蝴蝶)                 
 
-![unsplash.com](./蝴蝶.jpg)
+![](./蝴蝶.jpg)
 
 一、 山式的名称    
 英文名: Mountain pose   

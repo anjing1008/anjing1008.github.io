@@ -67,4 +67,4 @@ L同学还没反应过来，What's the matter of X?
 
 ###善待自己，善待他人，每天开开心心。
 
-![unsplash.com](./0830_yoga.jpg)
+![](./0830_yoga.jpg)
