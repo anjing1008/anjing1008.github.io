@@ -149,11 +149,11 @@ const Item = props => {
 
         @from-width tablet {
           li {
-            margin: ${`calc(${theme.space.default} * 3) 0 calc(${theme.space.default} * 4)`};
+            margin: ${`calc(${theme.space.default} * 2) 0 calc(${theme.space.default} * 3)`};
             padding: ${theme.space.default};
 
             &::after {
-              bottom: ${`calc(${theme.space.default} * -2)`};
+              bottom: ${`calc(${theme.space.default} * -1.5)`};
             }
 
             &:first-child {
@@ -188,6 +188,7 @@ const Item = props => {
               &::before {
                 top: ${`calc(${theme.space.default} * -2.75)`};
               }
+              margin: ${`calc(${theme.space.default} * 3) 0 calc(${theme.space.default} * 5)`};
             }
           }
 
