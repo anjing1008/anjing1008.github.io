@@ -1,2 +1,0 @@
-webpackJsonp([0x6d48110456e8],{664:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/who-will-cry-at-your-funeral/"},excerpt:"…",timeToRead:1,frontmatter:{title:"Who will cry at your funeral?",category:"thinking"}}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{category:"thinking"}}}});
-//# sourceMappingURL=path---category-thinking-dd3607aeaf0700f1514d.js.map

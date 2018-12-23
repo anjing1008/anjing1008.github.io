@@ -1,84 +1,28 @@
 {
   "assetsByChunkName": {
-    "path---excessive-interoperability": [
-      "path---excessive-interoperability-5d012f0fe53952b835c9.js",
-      "path---excessive-interoperability-5d012f0fe53952b835c9.js.map"
-    ],
-    "path---communicate-with-someone": [
-      "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js",
-      "path---communicate-with-someone-f5fe9dd4d53c4ff124d1.js.map"
-    ],
-    "path---time-management": [
-      "path---time-management-82109bef203082b3799d.js",
-      "path---time-management-82109bef203082b3799d.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d40f7e497e45ad932f63.js",
       "component---src-pages-index-js-d40f7e497e45ad932f63.js.map"
     ],
-    "path---sound-practice": [
-      "path---sound-practice-83700ba74aa6e015baf3.js",
-      "path---sound-practice-83700ba74aa6e015baf3.js.map"
-    ],
-    "path---category-thought": [
-      "path---category-thought-b41bc413e7344d066ff3.js",
-      "path---category-thought-b41bc413e7344d066ff3.js.map"
-    ],
     "path---": [
-      "path----1c427426765d05988319.js",
-      "path----1c427426765d05988319.js.map"
-    ],
-    "path---category-security": [
-      "path---category-security-61fa5afe5888afda1481.js",
-      "path---category-security-61fa5afe5888afda1481.js.map"
+      "path----a1326e3a7ddfbe893948.js",
+      "path----a1326e3a7ddfbe893948.js.map"
     ],
     "path---category-yoga": [
-      "path---category-yoga-33c297411c7c69bf839b.js",
-      "path---category-yoga-33c297411c7c69bf839b.js.map"
+      "path---category-yoga-152d67e2477b0aa0632c.js",
+      "path---category-yoga-152d67e2477b0aa0632c.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-bc31476bc211c53cc009.js",
       "component---src-pages-contact-js-bc31476bc211c53cc009.js.map"
     ],
-    "path---why-you-are-angry": [
-      "path---why-you-are-angry-15d9a39bb96b713f178b.js",
-      "path---why-you-are-angry-15d9a39bb96b713f178b.js.map"
-    ],
-    "path---what-is-the-sweet-affection": [
-      "path---what-is-the-sweet-affection-d97c4c6e9153e5fc89f4.js",
-      "path---what-is-the-sweet-affection-d97c4c6e9153e5fc89f4.js.map"
-    ],
-    "path---who-are-you": [
-      "path---who-are-you-0a4132fb6d60c5a5a802.js",
-      "path---who-are-you-0a4132fb6d60c5a5a802.js.map"
-    ],
-    "path---put-yourself": [
-      "path---put-yourself-2dbf152b5e29de4474ec.js",
-      "path---put-yourself-2dbf152b5e29de4474ec.js.map"
-    ],
     "component---src-templates-category-template-js": [
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js",
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js.map"
     ],
-    "path---out-of-work": [
-      "path---out-of-work-fe14a4a0b00c6e2388c0.js",
-      "path---out-of-work-fe14a4a0b00c6e2388c0.js.map"
-    ],
-    "path---the-way-to-happiness": [
-      "path---the-way-to-happiness-aa83bb608f4b7dc9ebb5.js",
-      "path---the-way-to-happiness-aa83bb608f4b7dc9ebb5.js.map"
-    ],
     "path---first-blog-on-gatsby": [
-      "path---first-blog-on-gatsby-5b6eff8d55a853fdcfdc.js",
-      "path---first-blog-on-gatsby-5b6eff8d55a853fdcfdc.js.map"
-    ],
-    "path---where-are-you": [
-      "path---where-are-you-26e14a9d9ab062c85476.js",
-      "path---where-are-you-26e14a9d9ab062c85476.js.map"
-    ],
-    "path---meditation": [
-      "path---meditation-80656c76ced9353b1c1c.js",
-      "path---meditation-80656c76ced9353b1c1c.js.map"
+      "path---first-blog-on-gatsby-0fd5bfb1899698a6a81c.js",
+      "path---first-blog-on-gatsby-0fd5bfb1899698a6a81c.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -88,61 +32,25 @@
       "path---category-blog-e803821b850cdf03bdf0.js",
       "path---category-blog-e803821b850cdf03bdf0.js.map"
     ],
-    "path---one-yuan-coin": [
-      "path---one-yuan-coin-69d25fc9b680ee6a1cc5.js",
-      "path---one-yuan-coin-69d25fc9b680ee6a1cc5.js.map"
-    ],
-    "path---remember-me": [
-      "path---remember-me-2d3b47a9d0fe24dd9668.js",
-      "path---remember-me-2d3b47a9d0fe24dd9668.js.map"
-    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js",
-      "component---src-layouts-index-js-d6bf774d62d3fb9d09f7.js.map"
+      "component---src-layouts-index-js-56ece71d7b55533bcaad.js",
+      "component---src-layouts-index-js-56ece71d7b55533bcaad.js.map"
     ],
     "path---category": [
-      "path---category-500bf40341920dc848af.js",
-      "path---category-500bf40341920dc848af.js.map"
+      "path---category-a5fae74b58277587e41f.js",
+      "path---category-a5fae74b58277587e41f.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
-    "path---category-practice": [
-      "path---category-practice-8019e76ecbe950dab033.js",
-      "path---category-practice-8019e76ecbe950dab033.js.map"
-    ],
-    "path---affinity": [
-      "path---affinity-e5e59d17a257425e1151.js",
-      "path---affinity-e5e59d17a257425e1151.js.map"
-    ],
-    "path---swimming": [
-      "path---swimming-73c46adf7f9cc8cd5f5c.js",
-      "path---swimming-73c46adf7f9cc8cd5f5c.js.map"
-    ],
-    "path---real-word": [
-      "path---real-word-4c3445ba05d7fb211dbe.js",
-      "path---real-word-4c3445ba05d7fb211dbe.js.map"
-    ],
     "path---index": [
-      "path---index-500bf40341920dc848af.js",
-      "path---index-500bf40341920dc848af.js.map"
+      "path---index-a5fae74b58277587e41f.js",
+      "path---index-a5fae74b58277587e41f.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-f3a1b414ce3678c34347.js",
       "component---src-pages-search-js-f3a1b414ce3678c34347.js.map"
-    ],
-    "path---category-swimming": [
-      "path---category-swimming-660e4ddcb8bb1b635ff6.js",
-      "path---category-swimming-660e4ddcb8bb1b635ff6.js.map"
-    ],
-    "path---compound-interest": [
-      "path---compound-interest-9bfab08fc09e4fa9ac64.js",
-      "path---compound-interest-9bfab08fc09e4fa9ac64.js.map"
-    ],
-    "path---chestnut": [
-      "path---chestnut-45d39bffce6f53841c85.js",
-      "path---chestnut-45d39bffce6f53841c85.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-cf325d2e9bf981eec2f6.js",
@@ -155,36 +63,20 @@
       "build-js-styles.css.map"
     ],
     "path---success": [
-      "path---success-58e523ab35cca13763c1.js",
-      "path---success-58e523ab35cca13763c1.js.map"
-    ],
-    "path---mode-of-think": [
-      "path---mode-of-think-a2acdc4b60eb29d4124f.js",
-      "path---mode-of-think-a2acdc4b60eb29d4124f.js.map"
-    ],
-    "path---category-funny": [
-      "path---category-funny-7b1e38fc4b1943a73072.js",
-      "path---category-funny-7b1e38fc4b1943a73072.js.map"
+      "path---success-71dd1cc9eb4f5ae3d811.js",
+      "path---success-71dd1cc9eb4f5ae3d811.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---magic-magic": [
-      "path---magic-magic-b6cf14c4d9c24ae3c05b.js",
-      "path---magic-magic-b6cf14c4d9c24ae3c05b.js.map"
     ],
     "path---contact": [
       "path---contact-206ac74de0d3aab26f03.js",
       "path---contact-206ac74de0d3aab26f03.js.map"
     ],
     "path---draft-post": [
-      "path---draft-post-2cd4155b5e09297913c8.js",
-      "path---draft-post-2cd4155b5e09297913c8.js.map"
-    ],
-    "path---category-miss": [
-      "path---category-miss-fd00de80112dc44d726e.js",
-      "path---category-miss-fd00de80112dc44d726e.js.map"
+      "path---draft-post-2b19f5c9284cab94c932.js",
+      "path---draft-post-2b19f5c9284cab94c932.js.map"
     ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-3207088e59bddadc3c4f.js",
@@ -194,47 +86,19 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---rice-noodles": [
-      "path---rice-noodles-b6a9e58567798fcc20da.js",
-      "path---rice-noodles-b6a9e58567798fcc20da.js.map"
-    ],
-    "path---communicate": [
-      "path---communicate-0df91a05283a1947221b.js",
-      "path---communicate-0df91a05283a1947221b.js.map"
-    ],
-    "path---plan-b": [
-      "path---plan-b-e0ba58e497412e580c3a.js",
-      "path---plan-b-e0ba58e497412e580c3a.js.map"
-    ],
-    "path---how-to-introduce-yourself": [
-      "path---how-to-introduce-yourself-b4cf0db1945cb5cde3eb.js",
-      "path---how-to-introduce-yourself-b4cf0db1945cb5cde3eb.js.map"
-    ],
     "path---hi-yoga": [
-      "path---hi-yoga-03b7dbaab50c3b146ea5.js",
-      "path---hi-yoga-03b7dbaab50c3b146ea5.js.map"
-    ],
-    "path---yoga-asanas-tadasana": [
-      "path---yoga-asanas-tadasana-dacb039a76cacdb62ec3.js",
-      "path---yoga-asanas-tadasana-dacb039a76cacdb62ec3.js.map"
+      "path---hi-yoga-68436ab862e3194e2568.js",
+      "path---hi-yoga-68436ab862e3194e2568.js.map"
     ],
     "app": [
-      "app-bc267056254a3471ea15.js",
+      "app-370da52db1e5446da878.js",
       "build-js-styles.css",
-      "app-bc267056254a3471ea15.js.map",
+      "app-370da52db1e5446da878.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
       "component---src-templates-page-template-js-277489605b32655c14af.js",
       "component---src-templates-page-template-js-277489605b32655c14af.js.map"
-    ],
-    "path---who-will-cry-at-your-funeral": [
-      "path---who-will-cry-at-your-funeral-b3402b804600958eb189.js",
-      "path---who-will-cry-at-your-funeral-b3402b804600958eb189.js.map"
-    ],
-    "path---study-hard-delicious-food": [
-      "path---study-hard-delicious-food-e5236fd9d2cb1047c353.js",
-      "path---study-hard-delicious-food-e5236fd9d2cb1047c353.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
@@ -244,25 +108,13 @@
       "path---search-9a06981e501e915a4854.js",
       "path---search-9a06981e501e915a4854.js.map"
     ],
-    "path---category-reading-notes": [
-      "path---category-reading-notes-1f47e6b95ecab7768991.js",
-      "path---category-reading-notes-1f47e6b95ecab7768991.js.map"
-    ],
-    "path---the-7-habits-of-highly-effective-people": [
-      "path---the-7-habits-of-highly-effective-people-140e2c2d9691ccc08f0e.js",
-      "path---the-7-habits-of-highly-effective-people-140e2c2d9691ccc08f0e.js.map"
-    ],
     "path---category-sayings": [
       "path---category-sayings-b931c398ebdabcbac2e2.js",
       "path---category-sayings-b931c398ebdabcbac2e2.js.map"
     ],
     "path---about": [
-      "path---about-7bc236745adde0449c0e.js",
-      "path---about-7bc236745adde0449c0e.js.map"
-    ],
-    "path---i-am-a-human-being": [
-      "path---i-am-a-human-being-165dc792e640562bb251.js",
-      "path---i-am-a-human-being-165dc792e640562bb251.js.map"
+      "path---about-195f12b84e02b656095f.js",
+      "path---about-195f12b84e02b656095f.js.map"
     ]
   }
 }

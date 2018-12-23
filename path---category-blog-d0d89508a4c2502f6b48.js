@@ -1,2 +1,0 @@
-webpackJsonp([99869901380991],{656:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/hi-yoga/"},excerpt:"遇见瑜伽 唤醒身体的觉知力",timeToRead:1,frontmatter:{title:"Hi yoga",category:"blog"}}},{node:{fields:{slug:"/first-blog-on-gatsby/"},excerpt:"迁移ing..",timeToRead:1,frontmatter:{title:"Gatsby 博客第一篇",category:"blog"}}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{category:"blog"}}}});
-//# sourceMappingURL=path---category-blog-d0d89508a4c2502f6b48.js.map
