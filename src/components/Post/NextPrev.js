@@ -44,10 +44,10 @@ const NextPrev = props => {
         .links {
           display: flex;
           flex-direction: column;
-          padding: ${theme.space.l} ${theme.space.m} ${theme.space.l};
+          padding: ${theme.space.m} ${theme.space.m} ${theme.space.m};
           border-top: 1px solid ${theme.line.color};
           border-bottom: 1px solid ${theme.line.color};
-          margin: 0;
+          margin: ${theme.space.l} 0 0;
 
           :global(a) {
             display: flex;

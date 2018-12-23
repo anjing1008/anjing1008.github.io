@@ -54,7 +54,7 @@ const Bodytext = props => {
           :global(a.gatsby-resp-image-link) {
             border: 0;
             display: block;
-            margin: 1.5em 0 0;
+            margin: 1.5em 0;
             border-radius: ${theme.size.radius.default};
             overflow: hidden;
             border: 1px solid ${theme.line.color};
@@ -65,6 +65,14 @@ const Bodytext = props => {
             color: inherit;
             padding: 0.1em 0.3em 0.2em;
             border-radius: 0.1em;
+          }
+          :global(figure a.gatsby-resp-image-link) {
+            border: 0;
+            display: block;
+            margin: 1.5em 0 0;
+            border-radius: ${theme.size.radius.default};
+            overflow: hidden;
+            border: 1px solid ${theme.line.color};
           }
           :global(figcaption.figure-caption) {
             text-align: center;
