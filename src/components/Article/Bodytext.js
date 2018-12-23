@@ -31,12 +31,16 @@ const Bodytext = props => {
           :global(p) {
             font-size: ${theme.font.size.s};
             line-height: ${theme.font.lineHeight.xxl};
-            margin: 0 0 1.5em;
+            margin: 0 0 0.3em;
           }
           :global(ul) {
             list-style: circle;
             margin: 0 0 1.5em;
             padding: 0 0 0 1.5em;
+            list-style-position: inside;
+          }
+          :global(ol) {
+            list-style-position: inside;
           }
           :global(li) {
             margin: 0.7em 0;
@@ -50,7 +54,7 @@ const Bodytext = props => {
           :global(a.gatsby-resp-image-link) {
             border: 0;
             display: block;
-            margin: 2.5em 0;
+            margin: 1.5em 0 0;
             border-radius: ${theme.size.radius.default};
             overflow: hidden;
             border: 1px solid ${theme.line.color};
@@ -61,6 +65,10 @@ const Bodytext = props => {
             color: inherit;
             padding: 0.1em 0.3em 0.2em;
             border-radius: 0.1em;
+          }
+          :global(figcaption.figure-caption) {
+            text-align: center;
+            margin: 0 0 1.5em;
           }
         }
 

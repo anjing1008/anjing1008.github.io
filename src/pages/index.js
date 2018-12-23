@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import React from "react";
-
+import { graphql } from "gatsby";
 import { ThemeContext } from "../layouts";
 import Blog from "../components/Blog";
 import Seo from "../components/Seo";
@@ -23,6 +23,13 @@ class IndexPage extends React.Component {
         </ThemeContext.Consumer>
 
         <Seo facebook={facebook} />
+
+        <style jsx>{`
+          hr {
+            margin: 0;
+            border: 0;
+          }
+        `}</style>
       </React.Fragment>
     );
   }
@@ -35,7 +42,7 @@ IndexPage.propTypes = {
 export default IndexPage;
 
 //eslint-disable-next-line no-undef
-export const guery = graphql`
+export const query = graphql`
   query IndexQuery {
     posts: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "//posts/[0-9]+.*--/" } }
@@ -55,8 +62,8 @@ export const guery = graphql`
             cover {
               children {
                 ... on ImageSharp {
-                  sizes(maxWidth: 800, maxHeight: 360) {
-                    ...GatsbyImageSharpSizes_withWebp
+                  fluid(maxWidth: 800, maxHeight: 360) {
+                    ...GatsbyImageSharpFluid_withWebp
                   }
                 }
               }
