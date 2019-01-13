@@ -13,25 +13,42 @@ const Bodytext = props => {
           animation-name: bodytextEntry;
           animation-duration: ${theme.time.duration.long};
 
-          :global(h2),
+          :global(h2) {
+            margin: 1em 0 0.75em;
+          }
+
           :global(h3) {
-            margin: 1.5em 0 1em;
+            margin: 0.75em 0 0.5em;
+          }
+
+          :global(h4) {
+            margin: 0.5em 0 0.25em;
+          }
+
+          :global(h5) {
+            margin: 0.25em 0 0;
           }
 
           :global(h2) {
-            line-height: ${theme.font.lineHeight.s};
             font-size: ${theme.font.size.l};
           }
 
           :global(h3) {
             font-size: ${theme.font.size.m};
-            line-height: ${theme.font.lineHeight.m};
+          }
+
+          :global(h4) {
+            font-size: ${theme.font.size.s};
+          }
+
+          :global(h5) {
+            font-size: ${theme.font.size.s};
           }
 
           :global(p) {
             font-size: ${theme.font.size.s};
             line-height: ${theme.font.lineHeight.xxl};
-            margin: 0 0 0.3em;
+            margin: 0 0 0.1em;
           }
           :global(ul) {
             list-style: circle;

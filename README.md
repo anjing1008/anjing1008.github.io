@@ -1,4 +1,4 @@
-# TechNote
+# Life & Inspiration
 
 ## Description
 

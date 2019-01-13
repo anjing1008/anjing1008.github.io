@@ -101,7 +101,7 @@ module.exports = {
           `gatsby-plugin-sharp`,
           {
             resolve: `gatsby-remark-figure-caption`,
-            options: {captionClassName: 'figure-caption'},
+            options: { captionClassName: "figure-caption" }
           },
           {
             resolve: `gatsby-remark-images`,

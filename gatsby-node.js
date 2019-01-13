@@ -15,11 +15,17 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     const separtorIndex = ~slug.indexOf("--") ? slug.indexOf("--") : 0;
     const shortSlugStart = separtorIndex ? separtorIndex + 2 : 0;
 
-    if (source !== "parts") {
+    if (source === "pages") {
       createNodeField({
         node,
         name: `slug`,
         value: `${separtorIndex ? "/" : ""}${slug.substring(shortSlugStart)}`
+      });
+    } else if (source !== "parts") {
+      createNodeField({
+        node,
+        name: `slug`,
+        value: `${slug.replace("--", "/")}`
       });
     }
     createNodeField({
