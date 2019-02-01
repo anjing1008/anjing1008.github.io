@@ -13,13 +13,14 @@ class IndexPage extends React.Component {
         site: {
           siteMetadata: { facebook }
         }
-      }
+      },
+      pageContext
     } = this.props;
 
     return (
       <React.Fragment>
         <ThemeContext.Consumer>
-          {theme => <Blog posts={posts} theme={theme} />}
+          {theme => <Blog posts={posts} pageContext={pageContext} theme={theme} />}
         </ThemeContext.Consumer>
 
         <Seo facebook={facebook} />
@@ -36,17 +37,20 @@ class IndexPage extends React.Component {
 }
 
 IndexPage.propTypes = {
-  data: PropTypes.object.isRequired
+  data: PropTypes.object.isRequired,
+  pageContext: PropTypes.object.isRequired
 };
 
 export default IndexPage;
 
 //eslint-disable-next-line no-undef
 export const query = graphql`
-  query IndexQuery {
+  query IndexQuery($skip: Int!, $limit: Int!) {
     posts: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "//posts/[0-9]+.*--/" } }
       sort: { fields: [fields___prefix], order: DESC }
+      skip: $skip
+      limit: $limit
     ) {
       edges {
         node {

@@ -6,6 +6,11 @@ const Promise = require("bluebird");
 
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
+const { paginate } = require("gatsby-awesome-pagination");
+const { createLinkedPages } = require("gatsby-pagination");
+
+const config = require("./content/meta/config");
+
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
@@ -45,6 +50,7 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   return new Promise((resolve, reject) => {
+    const indexTemplate = path.resolve("./src/templates/IndexTemplate.js");
     const postTemplate = path.resolve("./src/templates/PostTemplate.js");
     const pageTemplate = path.resolve("./src/templates/PageTemplate.js");
     const categoryTemplate = path.resolve("./src/templates/CategoryTemplate.js");
@@ -108,24 +114,28 @@ exports.createPages = ({ graphql, actions }) => {
           });
         });
 
-        // Create posts
+        // Create index page
         const posts = items.filter(item => item.node.fields.source === "posts");
-        posts.forEach(({ node }, index) => {
-          const slug = node.fields.slug;
-          const next = index === 0 ? undefined : posts[index - 1].node;
-          const prev = index === posts.length - 1 ? undefined : posts[index + 1].node;
-          const source = node.fields.source;
+        paginate({
+          createPage, // The Gatsby `createPage` function
+          items: posts, // An array of objects
+          itemsPerPage: config.sitePaginationLimit, // How many items you want per page
+          pathPrefix: "/", // Creates pages like `/blog`, `/blog/2`, etc
+          component: indexTemplate // Just like `createPage()`
+        });
 
-          createPage({
-            path: slug,
-            component: postTemplate,
+        // Create posts
+        createLinkedPages({
+          createPage,
+          edges: posts,
+          component: postTemplate,
+          edgeParser: edge => ({
+            path: edge.node.fields.slug,
             context: {
-              slug,
-              prev,
-              next,
-              source
+              slug: edge.node.fields.slug
             }
-          });
+          }),
+          circular: false
         });
 
         // and pages.

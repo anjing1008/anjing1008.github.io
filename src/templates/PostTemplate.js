@@ -1,7 +1,6 @@
 import PropTypes from "prop-types";
 import React from "react";
 import { graphql } from "gatsby";
-require("prismjs/themes/prism-solarizedlight.css");
 
 import Seo from "../components/Seo";
 import Article from "../components/Article";
@@ -15,9 +14,11 @@ const PostTemplate = props => {
       authornote: { html: authorNote },
       site: {
         siteMetadata: { facebook }
-      }
+      },
+      next,
+      prev
     },
-    pageContext: { next, prev }
+    pageContext
   } = props;
 
   return (
@@ -27,8 +28,8 @@ const PostTemplate = props => {
           <Article theme={theme}>
             <Post
               post={post}
-              next={next}
-              prev={prev}
+              next={pageContext.next ? next : undefined}
+              prev={pageContext.prev ? prev : undefined}
               authornote={authorNote}
               facebook={facebook}
               theme={theme}
@@ -51,7 +52,7 @@ export default PostTemplate;
 
 //eslint-disable-next-line no-undef
 export const postQuery = graphql`
-  query PostBySlug($slug: String!) {
+  query PostBySlug($slug: String!, $next: String, $prev: String) {
     post: markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
@@ -70,6 +71,26 @@ export const postQuery = graphql`
             }
           }
         }
+      }
+    }
+    # prev post
+    prev: markdownRemark(fields: { slug: { eq: $prev } }) {
+      fields {
+        slug
+        prefix
+      }
+      frontmatter {
+        title
+      }
+    }
+    # next post
+    next: markdownRemark(fields: { slug: { eq: $next } }) {
+      fields {
+        slug
+        prefix
+      }
+      frontmatter {
+        title
       }
     }
     authornote: markdownRemark(fileAbsolutePath: { regex: "/author/" }) {

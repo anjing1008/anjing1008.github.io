@@ -1,4 +1,6 @@
-import "typeface-open-sans";
+import "typeface-noto-sans";
+import "typeface-noto-sans-sc";
+import "typeface-ubuntu-mono";
 import FontFaceObserver from "fontfaceobserver";
 import PropTypes from "prop-types";
 import React from "react";
@@ -26,10 +28,10 @@ class Layout extends React.Component {
       theme: themeObjectFromYaml
     };
 
-    if (typeof window !== `undefined`) {
-      this.loadFont("font400", "Open Sans", 400);
-      this.loadFont("font600", "Open Sans", 600);
-    }
+    // if (typeof window !== `undefined`) {
+    //   this.loadFont("font400", "Open Sans", 400);
+    //   this.loadFont("font600", "Open Sans", 600);
+    // }
   }
 
   timeouts = {};
@@ -59,21 +61,21 @@ class Layout extends React.Component {
     return false;
   };
 
-  loadFont = (name, family, weight) => {
-    const font = new FontFaceObserver(family, {
-      weight: weight
-    });
-
-    font.load(null, 10000).then(
-      () => {
-        console.log(`${name} is available`);
-        this.setState({ [`${name}loaded`]: true });
-      },
-      () => {
-        console.log(`${name} is not available`);
-      }
-    );
-  };
+  // loadFont = (name, family, weight) => {
+  //   const font = new FontFaceObserver(family, {
+  //     weight: weight
+  //   });
+  //
+  //   font.load(null, 10000).then(
+  //     () => {
+  //       console.log(`${name} is available`);
+  //       this.setState({ [`${name}loaded`]: true });
+  //     },
+  //     () => {
+  //       console.log(`${name} is not available`);
+  //     }
+  //   );
+  // };
 
   render() {
     return (
@@ -141,14 +143,16 @@ class Layout extends React.Component {
                         padding: 0;
                       }
                       body {
-                        font-family: ${this.state.font400loaded
-                          ? "'Open Sans', sans-serif;"
-                          : "Arial, sans-serif;"};
+                        font-family: "Noto Sans", "Noto Sans SC", "Noto Sans CJK SC", sans-serif;
+                        /* https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+                        /* https://www.impressivewebs.com/new-css3-text-wrap/ */
+                        overflow-wrap: break-word;
+                        word-wrap: break-word;
+                        word-break: break-word;
                       }
                       h1,
                       h2,
                       h3 {
-                        font-weight: ${this.state.font600loaded ? 600 : 400};
                         line-height: 1.1;
                         letter-spacing: -0.03em;
                         margin: 0;
@@ -160,7 +164,7 @@ class Layout extends React.Component {
                         margin: 0;
                       }
                       strong {
-                        font-weight: ${this.state.font600loaded ? 600 : 400};
+                        font-weight: bold;
                       }
                       a {
                         text-decoration: none;
@@ -169,6 +173,10 @@ class Layout extends React.Component {
                       main {
                         width: auto;
                         display: block;
+                      }
+                      code[class*="language-"],
+                      pre[class*="language-"] {
+                        font-family: "Ubuntu Mono";
                       }
                     `}</style>
                   </React.Fragment>

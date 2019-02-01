@@ -6,6 +6,7 @@ module.exports = {
   // pathPrefix: "",
   siteImage: "my.png",
   siteLanguage: "en",
+  sitePaginationLimit: 8, // The max number of posts per page
 
   /* author */
   authorName: "anjing",

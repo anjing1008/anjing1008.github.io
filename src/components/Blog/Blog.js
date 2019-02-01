@@ -1,10 +1,12 @@
 import PropTypes from "prop-types";
 import React from "react";
+import Pagination from "../Pagination";
 
 import Item from "./Item";
 
 const Blog = props => {
-  const { posts, theme } = props;
+  const { posts, theme, pageContext } = props;
+  const { humanPageNumber, numberOfPages, previousPagePath, nextPagePath } = pageContext;
 
   return (
     <React.Fragment>
@@ -20,6 +22,12 @@ const Blog = props => {
             return <Item key={slug} post={node} theme={theme} />;
           })}
         </ul>
+        <Pagination
+          page={humanPageNumber}
+          pages={numberOfPages}
+          prev={previousPagePath}
+          next={nextPagePath}
+        />
       </main>
 
       {/* --- STYLES --- */}
@@ -54,7 +62,8 @@ const Blog = props => {
 
 Blog.propTypes = {
   posts: PropTypes.array.isRequired,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
+  pageContext: PropTypes.object.isRequired
 };
 
 export default Blog;

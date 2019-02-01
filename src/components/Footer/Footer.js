@@ -45,6 +45,11 @@ const Footer = props => {
             padding: 0 1em 1.5em;
           }
         }
+        @below tablet {
+          .footer {
+            padding-bottom: 60px;
+          }
+        }
       `}</style>
     </React.Fragment>
   );
