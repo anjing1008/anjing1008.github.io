@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://mamiaibaobao.com/category/funny/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/category/thought/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/letter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/reading-notes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/yoga/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mamiaibaobao.com/category/thought/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/swimming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mamiaibaobao.com/category/funny/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/affair/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/practice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/security/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -15,6 +15,8 @@
 <url> <loc>https://mamiaibaobao.com/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-01/reading-painting-books/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-01-15/accept-your-imperfections/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2019-01-10/letters-to-beibei/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2018-12-22/communicate/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2018-12-22/the-7-Habits-of-Highly-Effective-People/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -32,8 +34,8 @@
 <url> <loc>https://mamiaibaobao.com/2018-10-30/meditation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2018-10-23/sound-practice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2018-10-22/plan-b/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mamiaibaobao.com/2018-10-16/Where-are-you/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2018-10-16/chestnut/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2018-10-16/Where-are-you/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2018-10-16/magic-magic/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2018-10-12/remember-me/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2018-10-11/One-yuan-coin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
