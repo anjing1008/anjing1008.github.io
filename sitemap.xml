@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://mamiaibaobao.com/category/poem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/yoga/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/category/poem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/funny/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/thought/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/category/letter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -16,7 +16,19 @@
 <url> <loc>https://mamiaibaobao.com/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-14/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-13/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-12/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2019-02-11/poetry-of-24-solar-terms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-11/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-10/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-09/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-08/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-07/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-06/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mamiaibaobao.com/2019-02-05/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2019-02-04/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2019-02-03/yoga-knowledge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mamiaibaobao.com/2019-02-01/reading-painting-books/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
