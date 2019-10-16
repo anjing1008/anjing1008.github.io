@@ -18,13 +18,13 @@ const List = props => {
 
           return (
             <li key={slug}>
-              <Link to={slug}>{title}</Link>
+              <Link to={`/${slug}`}>{title}</Link>
             </li>
           );
         })}
       </ul>
 
-      {/* --- STYLES --- */}
+      {/*language=LESS*/}
       <style jsx>{`
         ul {
           margin: ${theme.space.stack.m};

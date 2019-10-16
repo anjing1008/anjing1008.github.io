@@ -161,7 +161,7 @@ class Menu extends React.Component {
             )}
         </nav>
 
-        {/* --- STYLES --- */}
+        { /*language=LESS*/ }
         <style jsx>{`
           .menu {
             align-items: center;
@@ -184,7 +184,7 @@ class Menu extends React.Component {
             justify-content: center;
             list-style: none;
             margin: 0;
-            padding: 0; /* 0 ${theme.space.s}; */
+            padding: 0;
             position: relative;
             width: 100%;
           }

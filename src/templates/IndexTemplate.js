@@ -25,6 +25,7 @@ class IndexPage extends React.Component {
 
         <Seo facebook={facebook} />
 
+        {/*language=LESS*/}
         <style jsx>{`
           hr {
             margin: 0;

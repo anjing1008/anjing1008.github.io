@@ -96,6 +96,14 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-static-folders',
+      options: {
+        folders: [
+          './assets',
+        ]
+      }
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -177,21 +185,6 @@ module.exports = {
             sizes: "192x192",
             type: "image/png"
           },
-          {
-            src: "/icons/icon-256x256.png",
-            sizes: "256x256",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-384x384.png",
-            sizes: "384x384",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-512x512.png",
-            sizes: "512x512",
-            type: "image/png"
-          }
         ]
       }
     },
@@ -223,6 +216,7 @@ module.exports = {
               return allMarkdownRemark.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
+                  date: edge.node.fields.prefix,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   custom_elements: [{ "content:encoded": edge.node.html }]
@@ -234,7 +228,15 @@ module.exports = {
                 allMarkdownRemark(
                   limit: 1000,
                   sort: { order: DESC, fields: [fields___prefix] },
-                  filter: { fields: { slug: { ne: null } } }
+                  filter: {
+                    fields: {
+                      prefix: { ne: null },
+                      slug: { ne: null }
+                    },
+                    frontmatter: {
+                      author: { ne: null }
+                    }
+                  }
                 ) {
                   edges {
                     node {
@@ -252,7 +254,8 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml"
+            output: "/rss.xml",
+            title: "Life & Inspiration",
           }
         ]
       }

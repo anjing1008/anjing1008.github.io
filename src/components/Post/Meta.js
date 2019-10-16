@@ -17,14 +17,18 @@ const Meta = props => {
       <span>
         <FaUser size={18} /> {authorName}
       </span>
-      {category && (
-        <span>
-          <FaTag size={18} />
-          <Link to={`/category/${category.split(" ").join("-")}`}>{category}</Link>
-        </span>
-      )}
+      {
+        category && category.map((element, i) => {
+          return (
+            <span key={i}>
+              <FaTag size={18} />
+              <Link to={`/category/${element.split(" ").join("-")}`}>#{element}</Link>
+            </span>
+          )}
+        )
+      }
 
-      {/* --- STYLES --- */}
+      {/*language=LESS*/}
       <style jsx>{`
         .meta {
           display: flex;
@@ -56,7 +60,7 @@ const Meta = props => {
 Meta.propTypes = {
   prefix: PropTypes.string.isRequired,
   author: PropTypes.string.isRequired,
-  category: PropTypes.string,
+  category: PropTypes.array.isRequired,
   theme: PropTypes.object.isRequired
 };
 

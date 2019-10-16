@@ -18,7 +18,7 @@ const Pagination = props => {
         .pagination {
           position: relative;
           width: 80%;
-          max-width: 800px;
+          max-width: 750px;
           margin: 1rem auto;
           color: #9eabb3;
           text-align: center;

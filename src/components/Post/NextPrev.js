@@ -22,7 +22,7 @@ const NextPrev = props => {
     <React.Fragment>
       <div className="links">
         {nextSlug && (
-          <Link to={nextSlug}>
+          <Link to={`/${nextSlug}`}>
             <FaArrowRight />
             <h4>
               {nextTitle} <time>{nextPrefix} </time>
@@ -30,7 +30,7 @@ const NextPrev = props => {
           </Link>
         )}
         {prevSlug && (
-          <Link to={prevSlug}>
+          <Link to={`/${prevSlug}`}>
             <FaArrowLeft />
             <h4>
               {prevTitle} <time>{prevPrefix}</time>
@@ -39,7 +39,7 @@ const NextPrev = props => {
         )}
       </div>
 
-      {/* --- STYLES --- */}
+      {/*language=LESS*/}
       <style jsx>{`
         .links {
           display: flex;

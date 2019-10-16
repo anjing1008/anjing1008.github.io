@@ -27,7 +27,9 @@ const Item = props => {
   return (
     <React.Fragment>
       <li>
-        <Link to={slug} key={slug} className="link">
+        {/*Getting an external link warning when using Link with createPages*/}
+        {/*https://github.com/gatsbyjs/gatsby/issues/11243*/}
+        <Link to={`/${slug}`} key={slug} className="link">
           <div className="gatsby-image-outer-wrapper">
             <Img fluid={fluid} />
           </div>
@@ -41,17 +43,22 @@ const Item = props => {
             <span>
               <FaUser size={18} /> {author}
             </span>
-            {category && (
-              <span>
-                <FaTag size={18} /> {category}
-              </span>
-            )}
+            {
+              category && category.map((element, i) => {
+                return (
+                  <span key={i}>
+                    <FaTag size={18} />
+                    #{element}
+                  </span>
+                )}
+              )
+            }
           </p>
           <p>{excerpt}</p>
         </Link>
       </li>
 
-      {/* --- STYLES --- */}
+      {/*language=LESS*/}
       <style jsx>{`
         :global(.link) {
           width: 100%;

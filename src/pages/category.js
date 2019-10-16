@@ -1,12 +1,17 @@
 import { FaTag } from "react-icons/fa/";
 import PropTypes from "prop-types";
 import React from "react";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 import { ThemeContext } from "../layouts";
 import Article from "../components/Article/";
 import Headline from "../components/Article/Headline";
 import List from "../components/List";
 import Seo from "../components/Seo";
+
+// Remove global Styles
+// https://github.com/ant-design/ant-design/issues/9363
+// import { Tag } from "antd";
+// import 'antd/lib/tag/style/index.css';
 
 const CategoryPage = props => {
   const {
@@ -27,19 +32,23 @@ const CategoryPage = props => {
       }
     } = edge;
 
-    if (category && category != null) {
-      if (!categories[category]) {
-        categories[category] = [];
-      }
-      categories[category].push(edge);
+    if (category) {
+      category.forEach(element => {
+        if (!categories[element]) {
+          categories[element] = [];
+        }
+        categories[element].push(edge);
+      });
     }
   });
 
   const categoryList = [];
 
-  for (var key in categories) {
+  for (const key of Object.keys(categories)) {
     categoryList.push([key, categories[key]]);
   }
+
+  categoryList.sort();
 
   return (
     <React.Fragment>
@@ -52,12 +61,12 @@ const CategoryPage = props => {
             {categoryList.map(item => (
               <section key={item[0]}>
                 <h2>
-                  <FaTag /> {item[0]}
+                  <FaTag /> <Link to={`/category/${item[0]}`}>{item[0]}</Link>
                 </h2>
                 <List edges={item[1]} theme={theme} />
               </section>
             ))}
-            {/* --- STYLES --- */}
+            {/*language=LESS*/}
             <style jsx>{`
               h2 {
                 margin: 0 0 0.5em;

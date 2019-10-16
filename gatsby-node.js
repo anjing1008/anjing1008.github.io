@@ -11,7 +11,11 @@ const { createLinkedPages } = require("gatsby-pagination");
 
 const config = require("./content/meta/config");
 
+// Advanced blog system in Gatsby
+// https://medium.com/significa/advanced-blog-system-in-gatsby-16e0cd6b85ad
+
 exports.onCreateNode = ({ node, getNode, actions }) => {
+  // https://www.gatsbyjs.org/tutorial/part-seven/
   const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
     const slug = createFilePath({ node, getNode });
@@ -26,17 +30,18 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
         name: `slug`,
         value: `${separtorIndex ? "/" : ""}${slug.substring(shortSlugStart)}`
       });
-    } else if (source !== "parts") {
+    } else if (source === "posts") {
       createNodeField({
         node,
         name: `slug`,
-        value: `${slug.replace("--", "/")}`
+        // value: `${slug.replace("--", "/")}`
+        value: path.basename(slug).replace("--", "/")
       });
     }
     createNodeField({
       node,
       name: `prefix`,
-      value: separtorIndex ? slug.substring(1, separtorIndex) : ""
+      value: separtorIndex ? path.basename(slug.substring(1, separtorIndex)) : ""
     });
     createNodeField({
       node,
@@ -54,12 +59,19 @@ exports.createPages = ({ graphql, actions }) => {
     const postTemplate = path.resolve("./src/templates/PostTemplate.js");
     const pageTemplate = path.resolve("./src/templates/PageTemplate.js");
     const categoryTemplate = path.resolve("./src/templates/CategoryTemplate.js");
+
+    // Do not create draft post files in production.
+    let activeEnv = process.env.ACTIVE_ENV || process.env.NODE_ENV || "development";
+    console.log(`Using environment config: '${activeEnv}'`);
+    let filters = `filter: { fields: { slug: { ne: null } } }`;
+    if (activeEnv === "production") filters = `filter: { fields: { slug: { ne: null } , prefix: { ne: null } } }`;
+
     resolve(
       graphql(
         `
           {
             allMarkdownRemark(
-              filter: { fields: { slug: { ne: null } } }
+              ` + filters + `
               sort: { fields: [fields___prefix], order: DESC }
               limit: 1000
             ) {
@@ -86,6 +98,9 @@ exports.createPages = ({ graphql, actions }) => {
           reject(result.errors);
         }
 
+        // Getting an external link warning when using Link with createPages
+        // https://github.com/gatsbyjs/gatsby/issues/11243
+
         const items = result.data.allMarkdownRemark.edges;
 
         // Create category list
@@ -97,8 +112,8 @@ exports.createPages = ({ graphql, actions }) => {
             }
           } = edge;
 
-          if (category && category !== null) {
-            categorySet.add(category);
+          if (category) {
+            category.forEach(item => categorySet.add(item));
           }
         });
 
