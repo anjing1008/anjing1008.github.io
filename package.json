@@ -75,8 +75,8 @@
     "lint": "eslint src/**/*.{js,jsx}",
     "stylelint": "stylelint src/**/*.js",
     "generate-app-icons": "sh ./scripts/generate-app-icons.sh",
-    "deploy": "gatsby build && gh-pages -d public -b master -r https://anjing@e.coding.net/anjing/anjing.coding.me.git",
-    "redeploy": "gh-pages -d public -b master -r https://anjing@e.coding.net/anjing/anjing.coding.me.git",
+    "deploy": "gatsby build && gh-pages -d public -b master -r https://anjing1008@git.dev.tencent.com/anjing1008/anjing1008.coding.me.git",
+    "redeploy": "gh-pages -d public -b master -r https://anjing1008@git.dev.tencent.com/anjing1008/anjing1008.coding.me.git",
     "deploy-gh": "gatsby build && gh-pages -d public -b master",
     "redeploy-gh": "gh-pages -d public -b master",
     "deploy-clean": "gh-pages-clean"
