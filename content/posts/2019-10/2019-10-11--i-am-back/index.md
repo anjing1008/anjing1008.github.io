@@ -1,6 +1,6 @@
 ---
 title: I am back
-category: [though]
+category: [thought]
 cover: ./1010_1.jpg
 author: 文:Jane
 ---
